@@ -1,0 +1,5738 @@
+[
+  {
+    "lat": -61,
+    "long": -55,
+    "location": "South Shetland Islands",
+    "continent": NaN,
+    "location_key": 10595,
+    "location_name": "-61, -55"
+  },
+  {
+    "lat": -60,
+    "long": -24,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 10987,
+    "location_name": "-60, -24"
+  },
+  {
+    "lat": -60,
+    "long": -24,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 10987,
+    "location_name": "-60, -24"
+  },
+  {
+    "lat": -60,
+    "long": -25,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 10986,
+    "location_name": "-60, -25"
+  },
+  {
+    "lat": -60,
+    "long": -26,
+    "location": "Bristol Island  South Sandwich Islands",
+    "continent": NaN,
+    "location_key": 10985,
+    "location_name": "-60, -26"
+  },
+  {
+    "lat": -58,
+    "long": -23,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 11710,
+    "location_name": "-58, -23"
+  },
+  {
+    "lat": -58,
+    "long": -25,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 11708,
+    "location_name": "-58, -25"
+  },
+  {
+    "lat": -58,
+    "long": -26,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 11707,
+    "location_name": "-58, -26"
+  },
+  {
+    "lat": -58,
+    "long": -25,
+    "location": "Bristol Island  South Sandwich Islands",
+    "continent": NaN,
+    "location_key": 11708,
+    "location_name": "-58, -25"
+  },
+  {
+    "lat": -57,
+    "long": -25,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 12069,
+    "location_name": "-57, -25"
+  },
+  {
+    "lat": -56,
+    "long": -25,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 12430,
+    "location_name": "-56, -25"
+  },
+  {
+    "lat": -56,
+    "long": -26,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 12429,
+    "location_name": "-56, -26"
+  },
+  {
+    "lat": -55,
+    "long": -28,
+    "location": "South Sandwich Islands region",
+    "continent": NaN,
+    "location_key": 12788,
+    "location_name": "-55, -28"
+  },
+  {
+    "lat": -54,
+    "long": 2,
+    "location": "Bouvet Island region",
+    "continent": NaN,
+    "location_key": 13179,
+    "location_name": "-54, 2"
+  },
+  {
+    "lat": -49,
+    "long": 164,
+    "location": "Auckland Islands  New Zealand region",
+    "continent": NaN,
+    "location_key": 15146,
+    "location_name": "-49, 164"
+  },
+  {
+    "lat": -46,
+    "long": 164,
+    "location": "Riverton  New Zealand",
+    "continent": NaN,
+    "location_key": 16229,
+    "location_name": "-46, 164"
+  },
+  {
+    "lat": -45,
+    "long": 166,
+    "location": "Te Anau  New Zealand",
+    "continent": NaN,
+    "location_key": 16592,
+    "location_name": "-45, 166"
+  },
+  {
+    "lat": -45,
+    "long": 167,
+    "location": "Te Anau  New Zealand",
+    "continent": NaN,
+    "location_key": 16593,
+    "location_name": "-45, 167"
+  },
+  {
+    "lat": -44,
+    "long": 167,
+    "location": "Te Anau  New Zealand",
+    "continent": NaN,
+    "location_key": 16954,
+    "location_name": "-44, 167"
+  },
+  {
+    "lat": -43,
+    "long": -73,
+    "location": "Quellón  Chile",
+    "continent": "South America",
+    "location_key": 17075,
+    "location_name": "-43, -73"
+  },
+  {
+    "lat": -43,
+    "long": 42,
+    "location": "Prince Edward Islands region",
+    "continent": NaN,
+    "location_key": 17190,
+    "location_name": "-43, 42"
+  },
+  {
+    "lat": -43,
+    "long": 171,
+    "location": "Methven  New Zealand",
+    "continent": NaN,
+    "location_key": 17319,
+    "location_name": "-43, 171"
+  },
+  {
+    "lat": -42,
+    "long": 173,
+    "location": "Amberley  New Zealand",
+    "continent": NaN,
+    "location_key": 17682,
+    "location_name": "-42, 173"
+  },
+  {
+    "lat": -42,
+    "long": 173,
+    "location": "Blenheim  New Zealand",
+    "continent": NaN,
+    "location_key": 17682,
+    "location_name": "-42, 173"
+  },
+  {
+    "lat": -42,
+    "long": 173,
+    "location": "Amberley  New Zealand",
+    "continent": NaN,
+    "location_key": 17682,
+    "location_name": "-42, 173"
+  },
+  {
+    "lat": -41,
+    "long": 174,
+    "location": "Blenheim  New Zealand",
+    "continent": NaN,
+    "location_key": 18044,
+    "location_name": "-41, 174"
+  },
+  {
+    "lat": -41,
+    "long": 174,
+    "location": "Blenheim  New Zealand",
+    "continent": NaN,
+    "location_key": 18044,
+    "location_name": "-41, 174"
+  },
+  {
+    "lat": -39,
+    "long": -74,
+    "location": "Corral  Chile",
+    "continent": NaN,
+    "location_key": 18518,
+    "location_name": "-39, -74"
+  },
+  {
+    "lat": -39,
+    "long": 178,
+    "location": "Gisborne  New Zealand",
+    "continent": NaN,
+    "location_key": 18770,
+    "location_name": "-39, 178"
+  },
+  {
+    "lat": -38,
+    "long": -73,
+    "location": "Carahue  Chile",
+    "continent": "South America",
+    "location_key": 18880,
+    "location_name": "-38, -73"
+  },
+  {
+    "lat": -38,
+    "long": -73,
+    "location": "Cañete  Chile",
+    "continent": "South America",
+    "location_key": 18880,
+    "location_name": "-38, -73"
+  },
+  {
+    "lat": -37,
+    "long": -73,
+    "location": "Cañete  Chile",
+    "continent": "South America",
+    "location_key": 19241,
+    "location_name": "-37, -73"
+  },
+  {
+    "lat": -37,
+    "long": -75,
+    "location": "Lebu  Chile",
+    "continent": NaN,
+    "location_key": 19239,
+    "location_name": "-37, -75"
+  },
+  {
+    "lat": -37,
+    "long": 179,
+    "location": "Gisborne  New Zealand",
+    "continent": NaN,
+    "location_key": 19493,
+    "location_name": "-37, 179"
+  },
+  {
+    "lat": -37,
+    "long": 179,
+    "location": "Gisborne  New Zealand",
+    "continent": NaN,
+    "location_key": 19493,
+    "location_name": "-37, 179"
+  },
+  {
+    "lat": -37,
+    "long": 179,
+    "location": "Gisborne  New Zealand",
+    "continent": NaN,
+    "location_key": 19493,
+    "location_name": "-37, 179"
+  },
+  {
+    "lat": -36,
+    "long": -72,
+    "location": "Tomé  Chile",
+    "continent": "South America",
+    "location_key": 19603,
+    "location_name": "-36, -72"
+  },
+  {
+    "lat": -36,
+    "long": -72,
+    "location": "Quirihue  Chile",
+    "continent": "South America",
+    "location_key": 19603,
+    "location_name": "-36, -72"
+  },
+  {
+    "lat": -36,
+    "long": -73,
+    "location": "Tomé  Chile",
+    "continent": NaN,
+    "location_key": 19602,
+    "location_name": "-36, -73"
+  },
+  {
+    "lat": -36,
+    "long": -73,
+    "location": "Talcahuano  Chile",
+    "continent": NaN,
+    "location_key": 19602,
+    "location_name": "-36, -73"
+  },
+  {
+    "lat": -35,
+    "long": -72,
+    "location": "Constitución  Chile",
+    "continent": "South America",
+    "location_key": 19964,
+    "location_name": "-35, -72"
+  },
+  {
+    "lat": -35,
+    "long": -70,
+    "location": "Teno  Chile",
+    "continent": "South America",
+    "location_key": 19966,
+    "location_name": "-35, -70"
+  },
+  {
+    "lat": -35,
+    "long": -73,
+    "location": "Constitución  Chile",
+    "continent": NaN,
+    "location_key": 19963,
+    "location_name": "-35, -73"
+  },
+  {
+    "lat": -35,
+    "long": -72,
+    "location": "Constitución  Chile",
+    "continent": NaN,
+    "location_key": 19964,
+    "location_name": "-35, -72"
+  },
+  {
+    "lat": -34,
+    "long": -71,
+    "location": "Santa Cruz  Chile",
+    "continent": "South America",
+    "location_key": 20326,
+    "location_name": "-34, -71"
+  },
+  {
+    "lat": -34,
+    "long": -71,
+    "location": "Santa Cruz  Chile",
+    "continent": "South America",
+    "location_key": 20326,
+    "location_name": "-34, -71"
+  },
+  {
+    "lat": -34,
+    "long": -72,
+    "location": "San Antonio  Chile",
+    "continent": NaN,
+    "location_key": 20325,
+    "location_name": "-34, -72"
+  },
+  {
+    "lat": -33,
+    "long": -72,
+    "location": "Valparaíso  Chile",
+    "continent": NaN,
+    "location_key": 20686,
+    "location_name": "-33, -72"
+  },
+  {
+    "lat": -33,
+    "long": -177,
+    "location": "the Kerma12 Islands",
+    "continent": NaN,
+    "location_key": 20581,
+    "location_name": "-33, -177"
+  },
+  {
+    "lat": -32,
+    "long": -71,
+    "location": "Hacienda La Calera  Chile",
+    "continent": "South America",
+    "location_key": 21048,
+    "location_name": "-32, -71"
+  },
+  {
+    "lat": -32,
+    "long": -178,
+    "location": "the Kerma12 Islands",
+    "continent": NaN,
+    "location_key": 20941,
+    "location_name": "-32, -178"
+  },
+  {
+    "lat": -32,
+    "long": -177,
+    "location": "the Kerma12 Islands",
+    "continent": NaN,
+    "location_key": 20942,
+    "location_name": "-32, -177"
+  },
+  {
+    "lat": -31,
+    "long": -71,
+    "location": "Illapel  Chile",
+    "continent": "South America",
+    "location_key": 21409,
+    "location_name": "-31, -71"
+  },
+  {
+    "lat": -31,
+    "long": -71,
+    "location": "Illapel  Chile",
+    "continent": "South America",
+    "location_key": 21409,
+    "location_name": "-31, -71"
+  },
+  {
+    "lat": -31,
+    "long": -71,
+    "location": "Illapel  Chile",
+    "continent": NaN,
+    "location_key": 21409,
+    "location_name": "-31, -71"
+  },
+  {
+    "lat": -31,
+    "long": -71,
+    "location": "Illapel  Chile",
+    "continent": NaN,
+    "location_key": 21409,
+    "location_name": "-31, -71"
+  },
+  {
+    "lat": -31,
+    "long": -71,
+    "location": "Illapel  Chile",
+    "continent": NaN,
+    "location_key": 21409,
+    "location_name": "-31, -71"
+  },
+  {
+    "lat": -31,
+    "long": -179,
+    "location": "Kerma12 Islands region",
+    "continent": NaN,
+    "location_key": 21301,
+    "location_name": "-31, -179"
+  },
+  {
+    "lat": -30,
+    "long": -71,
+    "location": "Coquimbo  Chile",
+    "continent": "South America",
+    "location_key": 21770,
+    "location_name": "-30, -71"
+  },
+  {
+    "lat": -30,
+    "long": -71,
+    "location": "Ovalle  Chile",
+    "continent": "South America",
+    "location_key": 21770,
+    "location_name": "-30, -71"
+  },
+  {
+    "lat": -30,
+    "long": -71,
+    "location": "Coquimbo  Chile",
+    "continent": "South America",
+    "location_key": 21770,
+    "location_name": "-30, -71"
+  },
+  {
+    "lat": -30,
+    "long": -71,
+    "location": "Ovalle  Chile",
+    "continent": "South America",
+    "location_key": 21770,
+    "location_name": "-30, -71"
+  },
+  {
+    "lat": -30,
+    "long": -71,
+    "location": "Monte Patria  Chile",
+    "continent": "South America",
+    "location_key": 21770,
+    "location_name": "-30, -71"
+  },
+  {
+    "lat": -30,
+    "long": -177,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 21664,
+    "location_name": "-30, -177"
+  },
+  {
+    "lat": -30,
+    "long": -177,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 21664,
+    "location_name": "-30, -177"
+  },
+  {
+    "lat": -30,
+    "long": -178,
+    "location": "L'Esperance Rock  New Zealand",
+    "continent": NaN,
+    "location_key": 21663,
+    "location_name": "-30, -178"
+  },
+  {
+    "lat": -30,
+    "long": -178,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 21663,
+    "location_name": "-30, -178"
+  },
+  {
+    "lat": -29,
+    "long": -72,
+    "location": "Coquimbo  Chile",
+    "continent": NaN,
+    "location_key": 22130,
+    "location_name": "-29, -72"
+  },
+  {
+    "lat": -29,
+    "long": -72,
+    "location": "Coquimbo  Chile",
+    "continent": NaN,
+    "location_key": 22130,
+    "location_name": "-29, -72"
+  },
+  {
+    "lat": -29,
+    "long": -177,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 22025,
+    "location_name": "-29, -177"
+  },
+  {
+    "lat": -29,
+    "long": -177,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 22025,
+    "location_name": "-29, -177"
+  },
+  {
+    "lat": -29,
+    "long": -177,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 22025,
+    "location_name": "-29, -177"
+  },
+  {
+    "lat": -29,
+    "long": -177,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 22025,
+    "location_name": "-29, -177"
+  },
+  {
+    "lat": -29,
+    "long": -177,
+    "location": "Kerma12 Islands  New Zealand",
+    "continent": NaN,
+    "location_key": 22025,
+    "location_name": "-29, -177"
+  },
+  {
+    "lat": -29,
+    "long": -176,
+    "location": "Kerma12 Islands region",
+    "continent": NaN,
+    "location_key": 22026,
+    "location_name": "-29, -176"
+  },
+  {
+    "lat": -29,
+    "long": -176,
+    "location": "Kerma12 Islands region",
+    "continent": NaN,
+    "location_key": 22026,
+    "location_name": "-29, -176"
+  },
+  {
+    "lat": -28,
+    "long": -70,
+    "location": "Vallenar  Chile",
+    "continent": "South America",
+    "location_key": 22493,
+    "location_name": "-28, -70"
+  },
+  {
+    "lat": -28,
+    "long": -71,
+    "location": "Vallenar  Chile",
+    "continent": NaN,
+    "location_key": 22492,
+    "location_name": "-28, -71"
+  },
+  {
+    "lat": -28,
+    "long": -176,
+    "location": "Kerma12 Islands region",
+    "continent": NaN,
+    "location_key": 22387,
+    "location_name": "-28, -176"
+  },
+  {
+    "lat": -27,
+    "long": -70,
+    "location": "Copiapó  Chile",
+    "continent": "South America",
+    "location_key": 22854,
+    "location_name": "-27, -70"
+  },
+  {
+    "lat": -27,
+    "long": -71,
+    "location": "Vallenar  Chile",
+    "continent": NaN,
+    "location_key": 22853,
+    "location_name": "-27, -71"
+  },
+  {
+    "lat": -27,
+    "long": -71,
+    "location": "Copiapó  Chile",
+    "continent": NaN,
+    "location_key": 22853,
+    "location_name": "-27, -71"
+  },
+  {
+    "lat": -27,
+    "long": -71,
+    "location": "Copiapó  Chile",
+    "continent": NaN,
+    "location_key": 22853,
+    "location_name": "-27, -71"
+  },
+  {
+    "lat": -26,
+    "long": 178,
+    "location": "the Fiji Islands",
+    "continent": NaN,
+    "location_key": 23463,
+    "location_name": "-26, 178"
+  },
+  {
+    "lat": -25,
+    "long": 178,
+    "location": "the Fiji Islands",
+    "continent": NaN,
+    "location_key": 23824,
+    "location_name": "-25, 178"
+  },
+  {
+    "lat": -25,
+    "long": 178,
+    "location": "the Fiji Islands",
+    "continent": NaN,
+    "location_key": 23824,
+    "location_name": "-25, 178"
+  },
+  {
+    "lat": -23,
+    "long": -66,
+    "location": "El Aguilar  Argentina",
+    "continent": "South America",
+    "location_key": 24302,
+    "location_name": "-23, -66"
+  },
+  {
+    "lat": -23,
+    "long": -68,
+    "location": "San Pedro de Atacama  Chile",
+    "continent": "South America",
+    "location_key": 24300,
+    "location_name": "-23, -68"
+  },
+  {
+    "lat": -23,
+    "long": -66,
+    "location": "San Antonio de los Cobres  Argentina",
+    "continent": "South America",
+    "location_key": 24302,
+    "location_name": "-23, -66"
+  },
+  {
+    "lat": -23,
+    "long": -179,
+    "location": "the Fiji Islands",
+    "continent": NaN,
+    "location_key": 24189,
+    "location_name": "-23, -179"
+  },
+  {
+    "lat": -23,
+    "long": 171,
+    "location": "the Loyalty Islands",
+    "continent": NaN,
+    "location_key": 24539,
+    "location_name": "-23, 171"
+  },
+  {
+    "lat": -23,
+    "long": -178,
+    "location": "the Fiji Islands",
+    "continent": NaN,
+    "location_key": 24190,
+    "location_name": "-23, -178"
+  },
+  {
+    "lat": -23,
+    "long": -177,
+    "location": "Vaini  Tonga",
+    "continent": NaN,
+    "location_key": 24191,
+    "location_name": "-23, -177"
+  },
+  {
+    "lat": -23,
+    "long": -174,
+    "location": "‘Ohonua  Tonga",
+    "continent": NaN,
+    "location_key": 24194,
+    "location_name": "-23, -174"
+  },
+  {
+    "lat": -22,
+    "long": 25,
+    "location": "Moijabana  Botswana",
+    "continent": "Africa",
+    "location_key": 24754,
+    "location_name": "-22, 25"
+  },
+  {
+    "lat": -22,
+    "long": -69,
+    "location": "Tocopilla  Chile",
+    "continent": "South America",
+    "location_key": 24660,
+    "location_name": "-22, -69"
+  },
+  {
+    "lat": -22,
+    "long": -67,
+    "location": "San Pedro de Atacama  Chile",
+    "continent": "South America",
+    "location_key": 24662,
+    "location_name": "-22, -67"
+  },
+  {
+    "lat": -22,
+    "long": 170,
+    "location": "the Loyalty Islands",
+    "continent": NaN,
+    "location_key": 24899,
+    "location_name": "-22, 170"
+  },
+  {
+    "lat": -22,
+    "long": 173,
+    "location": "the Loyalty Islands",
+    "continent": NaN,
+    "location_key": 24902,
+    "location_name": "-22, 173"
+  },
+  {
+    "lat": -22,
+    "long": 170,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 24899,
+    "location_name": "-22, 170"
+  },
+  {
+    "lat": -22,
+    "long": 169,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 24898,
+    "location_name": "-22, 169"
+  },
+  {
+    "lat": -22,
+    "long": 170,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 24899,
+    "location_name": "-22, 170"
+  },
+  {
+    "lat": -22,
+    "long": 169,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 24898,
+    "location_name": "-22, 169"
+  },
+  {
+    "lat": -21,
+    "long": -68,
+    "location": "Calama  Chile",
+    "continent": "South America",
+    "location_key": 25022,
+    "location_name": "-21, -68"
+  },
+  {
+    "lat": -21,
+    "long": -179,
+    "location": "Ndoi Island  Fiji",
+    "continent": NaN,
+    "location_key": 24911,
+    "location_name": "-21, -179"
+  },
+  {
+    "lat": -21,
+    "long": 169,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 25259,
+    "location_name": "-21, 169"
+  },
+  {
+    "lat": -21,
+    "long": 169,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 25259,
+    "location_name": "-21, 169"
+  },
+  {
+    "lat": -21,
+    "long": 168,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 25258,
+    "location_name": "-21, 168"
+  },
+  {
+    "lat": -21,
+    "long": 168,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 25258,
+    "location_name": "-21, 168"
+  },
+  {
+    "lat": -21,
+    "long": 168,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 25258,
+    "location_name": "-21, 168"
+  },
+  {
+    "lat": -21,
+    "long": 169,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 25259,
+    "location_name": "-21, 169"
+  },
+  {
+    "lat": -21,
+    "long": -177,
+    "location": "Haveluloto  Tonga",
+    "continent": NaN,
+    "location_key": 24913,
+    "location_name": "-21, -177"
+  },
+  {
+    "lat": -21,
+    "long": 170,
+    "location": "Isangel  Vanuatu",
+    "continent": NaN,
+    "location_key": 25260,
+    "location_name": "-21, 170"
+  },
+  {
+    "lat": -21,
+    "long": 170,
+    "location": "Isangel  Vanuatu",
+    "continent": NaN,
+    "location_key": 25260,
+    "location_name": "-21, 170"
+  },
+  {
+    "lat": -21,
+    "long": 33,
+    "location": "Chipinge  Zimbabwe",
+    "continent": "Africa",
+    "location_key": 25123,
+    "location_name": "-21, 33"
+  },
+  {
+    "lat": -20,
+    "long": -63,
+    "location": "Boyuibe  Bolivia",
+    "continent": "South America",
+    "location_key": 25388,
+    "location_name": "-20, -63"
+  },
+  {
+    "lat": -20,
+    "long": -70,
+    "location": "Iquique  Chile",
+    "continent": NaN,
+    "location_key": 25381,
+    "location_name": "-20, -70"
+  },
+  {
+    "lat": -20,
+    "long": -70,
+    "location": "Iquique  Chile",
+    "continent": NaN,
+    "location_key": 25381,
+    "location_name": "-20, -70"
+  },
+  {
+    "lat": -20,
+    "long": -178,
+    "location": "Ndoi Island  Fiji",
+    "continent": NaN,
+    "location_key": 25273,
+    "location_name": "-20, -178"
+  },
+  {
+    "lat": -20,
+    "long": 168,
+    "location": "Wé  New Caledonia",
+    "continent": NaN,
+    "location_key": 25619,
+    "location_name": "-20, 168"
+  },
+  {
+    "lat": -20,
+    "long": 168,
+    "location": "Tadine  New Caledonia",
+    "continent": NaN,
+    "location_key": 25619,
+    "location_name": "-20, 168"
+  },
+  {
+    "lat": -20,
+    "long": -174,
+    "location": "Pangai  Tonga",
+    "continent": NaN,
+    "location_key": 25277,
+    "location_name": "-20, -174"
+  },
+  {
+    "lat": -20,
+    "long": 169,
+    "location": "Isangel  Vanuatu",
+    "continent": NaN,
+    "location_key": 25620,
+    "location_name": "-20, 169"
+  },
+  {
+    "lat": -20,
+    "long": 168,
+    "location": "Isangel  Vanuatu",
+    "continent": NaN,
+    "location_key": 25619,
+    "location_name": "-20, 168"
+  },
+  {
+    "lat": -20,
+    "long": 169,
+    "location": "Isangel  Vanuatu",
+    "continent": NaN,
+    "location_key": 25620,
+    "location_name": "-20, 169"
+  },
+  {
+    "lat": -19,
+    "long": -63,
+    "location": "Padilla  Bolivia",
+    "continent": "South America",
+    "location_key": 25749,
+    "location_name": "-19, -63"
+  },
+  {
+    "lat": -19,
+    "long": -70,
+    "location": "Iquique  Chile",
+    "continent": "South America",
+    "location_key": 25742,
+    "location_name": "-19, -70"
+  },
+  {
+    "lat": -19,
+    "long": -69,
+    "location": "Iquique  Chile",
+    "continent": "South America",
+    "location_key": 25743,
+    "location_name": "-19, -69"
+  },
+  {
+    "lat": -19,
+    "long": -70,
+    "location": "Iquique  Chile",
+    "continent": NaN,
+    "location_key": 25742,
+    "location_name": "-19, -70"
+  },
+  {
+    "lat": -19,
+    "long": -70,
+    "location": "Iquique  Chile",
+    "continent": NaN,
+    "location_key": 25742,
+    "location_name": "-19, -70"
+  },
+  {
+    "lat": -19,
+    "long": -70,
+    "location": "Iquique  Chile",
+    "continent": NaN,
+    "location_key": 25742,
+    "location_name": "-19, -70"
+  },
+  {
+    "lat": -19,
+    "long": 176,
+    "location": "Nadi  Fiji",
+    "continent": NaN,
+    "location_key": 25988,
+    "location_name": "-19, 176"
+  },
+  {
+    "lat": -19,
+    "long": -172,
+    "location": "Neiafu  Tonga",
+    "continent": NaN,
+    "location_key": 25640,
+    "location_name": "-19, -172"
+  },
+  {
+    "lat": -19,
+    "long": -173,
+    "location": "Pangai  Tonga",
+    "continent": NaN,
+    "location_key": 25639,
+    "location_name": "-19, -173"
+  },
+  {
+    "lat": -19,
+    "long": 167,
+    "location": "Isangel  Vanuatu",
+    "continent": NaN,
+    "location_key": 25979,
+    "location_name": "-19, 167"
+  },
+  {
+    "lat": -19,
+    "long": 168,
+    "location": "Isangel  Vanuatu",
+    "continent": NaN,
+    "location_key": 25980,
+    "location_name": "-19, 168"
+  },
+  {
+    "lat": -18,
+    "long": 120,
+    "location": "Broome  Australia",
+    "continent": NaN,
+    "location_key": 26293,
+    "location_name": "-18, 120"
+  },
+  {
+    "lat": -18,
+    "long": -178,
+    "location": "Levuka  Fiji",
+    "continent": NaN,
+    "location_key": 25995,
+    "location_name": "-18, -178"
+  },
+  {
+    "lat": -18,
+    "long": 179,
+    "location": "Levuka  Fiji",
+    "continent": NaN,
+    "location_key": 26352,
+    "location_name": "-18, 179"
+  },
+  {
+    "lat": -18,
+    "long": -178,
+    "location": "Levuka  Fiji",
+    "continent": NaN,
+    "location_key": 25995,
+    "location_name": "-18, -178"
+  },
+  {
+    "lat": -18,
+    "long": -176,
+    "location": "Pangai  Tonga",
+    "continent": NaN,
+    "location_key": 25997,
+    "location_name": "-18, -176"
+  },
+  {
+    "lat": -18,
+    "long": -175,
+    "location": "Neiafu  Tonga",
+    "continent": NaN,
+    "location_key": 25998,
+    "location_name": "-18, -175"
+  },
+  {
+    "lat": -18,
+    "long": -174,
+    "location": "Neiafu  Tonga",
+    "continent": NaN,
+    "location_key": 25999,
+    "location_name": "-18, -174"
+  },
+  {
+    "lat": -18,
+    "long": 168,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26341,
+    "location_name": "-18, 168"
+  },
+  {
+    "lat": -18,
+    "long": 168,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26341,
+    "location_name": "-18, 168"
+  },
+  {
+    "lat": -18,
+    "long": 168,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26341,
+    "location_name": "-18, 168"
+  },
+  {
+    "lat": -17,
+    "long": -72,
+    "location": "Punta de Bombón  Peru",
+    "continent": NaN,
+    "location_key": 26462,
+    "location_name": "-17, -72"
+  },
+  {
+    "lat": -17,
+    "long": -178,
+    "location": "Levuka  Fiji",
+    "continent": NaN,
+    "location_key": 26356,
+    "location_name": "-17, -178"
+  },
+  {
+    "lat": -17,
+    "long": 178,
+    "location": "Ba  Fiji",
+    "continent": NaN,
+    "location_key": 26712,
+    "location_name": "-17, 178"
+  },
+  {
+    "lat": -17,
+    "long": -71,
+    "location": "Pacocha  Peru",
+    "continent": NaN,
+    "location_key": 26463,
+    "location_name": "-17, -71"
+  },
+  {
+    "lat": -17,
+    "long": 66,
+    "location": "Mauritius - Reunion region",
+    "continent": NaN,
+    "location_key": 26600,
+    "location_name": "-17, 66"
+  },
+  {
+    "lat": -17,
+    "long": 168,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26702,
+    "location_name": "-17, 168"
+  },
+  {
+    "lat": -17,
+    "long": 167,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26701,
+    "location_name": "-17, 167"
+  },
+  {
+    "lat": -17,
+    "long": 168,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26702,
+    "location_name": "-17, 168"
+  },
+  {
+    "lat": -17,
+    "long": 168,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26702,
+    "location_name": "-17, 168"
+  },
+  {
+    "lat": -17,
+    "long": 167,
+    "location": "Port-Vila  Vanuatu",
+    "continent": NaN,
+    "location_key": 26701,
+    "location_name": "-17, 167"
+  },
+  {
+    "lat": -16,
+    "long": 176,
+    "location": "Lautoka  Fiji",
+    "continent": NaN,
+    "location_key": 27071,
+    "location_name": "-16, 176"
+  },
+  {
+    "lat": -16,
+    "long": -73,
+    "location": "Achanizo  Peru",
+    "continent": NaN,
+    "location_key": 26822,
+    "location_name": "-16, -73"
+  },
+  {
+    "lat": -16,
+    "long": -73,
+    "location": "Atico  Peru",
+    "continent": NaN,
+    "location_key": 26822,
+    "location_name": "-16, -73"
+  },
+  {
+    "lat": -16,
+    "long": -172,
+    "location": "Hihifo  Tonga",
+    "continent": NaN,
+    "location_key": 26723,
+    "location_name": "-16, -172"
+  },
+  {
+    "lat": -16,
+    "long": 167,
+    "location": "Lakatoro  Vanuatu",
+    "continent": NaN,
+    "location_key": 27062,
+    "location_name": "-16, 167"
+  },
+  {
+    "lat": -16,
+    "long": 168,
+    "location": "Lakatoro  Vanuatu",
+    "continent": NaN,
+    "location_key": 27063,
+    "location_name": "-16, 168"
+  },
+  {
+    "lat": -16,
+    "long": 167,
+    "location": "Norsup  Vanuatu",
+    "continent": NaN,
+    "location_key": 27062,
+    "location_name": "-16, 167"
+  },
+  {
+    "lat": -16,
+    "long": -177,
+    "location": "Alo  Wallis and Futuna",
+    "continent": NaN,
+    "location_key": 26718,
+    "location_name": "-16, -177"
+  },
+  {
+    "lat": -15,
+    "long": -74,
+    "location": "Atiquipa  Peru",
+    "continent": NaN,
+    "location_key": 27182,
+    "location_name": "-15, -74"
+  },
+  {
+    "lat": -15,
+    "long": -74,
+    "location": "Atiquipa  Peru",
+    "continent": NaN,
+    "location_key": 27182,
+    "location_name": "-15, -74"
+  },
+  {
+    "lat": -15,
+    "long": -172,
+    "location": "Matavai  Samoa",
+    "continent": NaN,
+    "location_key": 27084,
+    "location_name": "-15, -172"
+  },
+  {
+    "lat": -15,
+    "long": -173,
+    "location": "Hihifo  Tonga",
+    "continent": NaN,
+    "location_key": 27083,
+    "location_name": "-15, -173"
+  },
+  {
+    "lat": -15,
+    "long": -173,
+    "location": "Hihifo  Tonga",
+    "continent": NaN,
+    "location_key": 27083,
+    "location_name": "-15, -173"
+  },
+  {
+    "lat": -15,
+    "long": 167,
+    "location": "Port-Olry  Vanuatu",
+    "continent": NaN,
+    "location_key": 27423,
+    "location_name": "-15, 167"
+  },
+  {
+    "lat": -15,
+    "long": 167,
+    "location": "Luganville  Vanuatu",
+    "continent": NaN,
+    "location_key": 27423,
+    "location_name": "-15, 167"
+  },
+  {
+    "lat": -15,
+    "long": 167,
+    "location": "Norsup  Vanuatu",
+    "continent": NaN,
+    "location_key": 27423,
+    "location_name": "-15, 167"
+  },
+  {
+    "lat": -15,
+    "long": -178,
+    "location": "Alo  Wallis and Futuna",
+    "continent": NaN,
+    "location_key": 27078,
+    "location_name": "-15, -178"
+  },
+  {
+    "lat": -14,
+    "long": -70,
+    "location": "Azángaro  Peru",
+    "continent": "South America",
+    "location_key": 27547,
+    "location_name": "-14, -70"
+  },
+  {
+    "lat": -14,
+    "long": -70,
+    "location": "Azángaro  Peru",
+    "continent": "South America",
+    "location_key": 27547,
+    "location_name": "-14, -70"
+  },
+  {
+    "lat": -14,
+    "long": -73,
+    "location": "Aniso  Peru",
+    "continent": "South America",
+    "location_key": 27544,
+    "location_name": "-14, -73"
+  },
+  {
+    "lat": -14,
+    "long": -75,
+    "location": "Santiago  Peru",
+    "continent": "South America",
+    "location_key": 27542,
+    "location_name": "-14, -75"
+  },
+  {
+    "lat": -14,
+    "long": 167,
+    "location": "Port-Olry  Vanuatu",
+    "continent": "Oceania",
+    "location_key": 27784,
+    "location_name": "-14, 167"
+  },
+  {
+    "lat": -14,
+    "long": 167,
+    "location": "Port-Olry  Vanuatu",
+    "continent": NaN,
+    "location_key": 27784,
+    "location_name": "-14, 167"
+  },
+  {
+    "lat": -14,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 27783,
+    "location_name": "-14, 166"
+  },
+  {
+    "lat": -14,
+    "long": 166,
+    "location": "Port-Olry  Vanuatu",
+    "continent": NaN,
+    "location_key": 27783,
+    "location_name": "-14, 166"
+  },
+  {
+    "lat": -14,
+    "long": 167,
+    "location": "Port-Olry  Vanuatu",
+    "continent": NaN,
+    "location_key": 27784,
+    "location_name": "-14, 167"
+  },
+  {
+    "lat": -14,
+    "long": 167,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 27784,
+    "location_name": "-14, 167"
+  },
+  {
+    "lat": -14,
+    "long": 167,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 27784,
+    "location_name": "-14, 167"
+  },
+  {
+    "lat": -14,
+    "long": 167,
+    "location": "Port-Olry  Vanuatu",
+    "continent": NaN,
+    "location_key": 27784,
+    "location_name": "-14, 167"
+  },
+  {
+    "lat": -14,
+    "long": -175,
+    "location": "Mata-Utu  Wallis and Futuna",
+    "continent": NaN,
+    "location_key": 27442,
+    "location_name": "-14, -175"
+  },
+  {
+    "lat": -13,
+    "long": -76,
+    "location": "San Vicente de Cañete  Peru",
+    "continent": NaN,
+    "location_key": 27902,
+    "location_name": "-13, -76"
+  },
+  {
+    "lat": -13,
+    "long": -76,
+    "location": "San Vicente de Cañete  Peru",
+    "continent": NaN,
+    "location_key": 27902,
+    "location_name": "-13, -76"
+  },
+  {
+    "lat": -13,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28144,
+    "location_name": "-13, 166"
+  },
+  {
+    "lat": -13,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28144,
+    "location_name": "-13, 166"
+  },
+  {
+    "lat": -13,
+    "long": 167,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28145,
+    "location_name": "-13, 167"
+  },
+  {
+    "lat": -13,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28144,
+    "location_name": "-13, 166"
+  },
+  {
+    "lat": -13,
+    "long": 167,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28145,
+    "location_name": "-13, 167"
+  },
+  {
+    "lat": -13,
+    "long": 165,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28143,
+    "location_name": "-13, 165"
+  },
+  {
+    "lat": -13,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28144,
+    "location_name": "-13, 166"
+  },
+  {
+    "lat": -13,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28144,
+    "location_name": "-13, 166"
+  },
+  {
+    "lat": -13,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28144,
+    "location_name": "-13, 166"
+  },
+  {
+    "lat": -13,
+    "long": 167,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28145,
+    "location_name": "-13, 167"
+  },
+  {
+    "lat": -12,
+    "long": 166,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28505,
+    "location_name": "-12, 166"
+  },
+  {
+    "lat": -12,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28505,
+    "location_name": "-12, 166"
+  },
+  {
+    "lat": -12,
+    "long": 166,
+    "location": "Sola  Vanuatu",
+    "continent": NaN,
+    "location_key": 28505,
+    "location_name": "-12, 166"
+  },
+  {
+    "lat": -11,
+    "long": -70,
+    "location": "Iñapari  Peru",
+    "continent": "South America",
+    "location_key": 28630,
+    "location_name": "-11, -70"
+  },
+  {
+    "lat": -11,
+    "long": 163,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28863,
+    "location_name": "-11, 163"
+  },
+  {
+    "lat": -11,
+    "long": 163,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28863,
+    "location_name": "-11, 163"
+  },
+  {
+    "lat": -11,
+    "long": 162,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28862,
+    "location_name": "-11, 162"
+  },
+  {
+    "lat": -11,
+    "long": 162,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28862,
+    "location_name": "-11, 162"
+  },
+  {
+    "lat": -11,
+    "long": 162,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28862,
+    "location_name": "-11, 162"
+  },
+  {
+    "lat": -11,
+    "long": 164,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28864,
+    "location_name": "-11, 164"
+  },
+  {
+    "lat": -11,
+    "long": 165,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28865,
+    "location_name": "-11, 165"
+  },
+  {
+    "lat": -11,
+    "long": 162,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 28862,
+    "location_name": "-11, 162"
+  },
+  {
+    "lat": -10,
+    "long": 107,
+    "location": "Java  Indonesia",
+    "continent": NaN,
+    "location_key": 29168,
+    "location_name": "-10, 107"
+  },
+  {
+    "lat": -10,
+    "long": -71,
+    "location": "Iñapari  Peru",
+    "continent": "South America",
+    "location_key": 28990,
+    "location_name": "-10, -71"
+  },
+  {
+    "lat": -10,
+    "long": -70,
+    "location": "Iñapari  Peru",
+    "continent": "South America",
+    "location_key": 28991,
+    "location_name": "-10, -70"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 165,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29226,
+    "location_name": "-10, 165"
+  },
+  {
+    "lat": -10,
+    "long": 164,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29225,
+    "location_name": "-10, 164"
+  },
+  {
+    "lat": -10,
+    "long": 165,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29226,
+    "location_name": "-10, 165"
+  },
+  {
+    "lat": -10,
+    "long": 166,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29227,
+    "location_name": "-10, 166"
+  },
+  {
+    "lat": -10,
+    "long": 165,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29226,
+    "location_name": "-10, 165"
+  },
+  {
+    "lat": -10,
+    "long": 165,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29226,
+    "location_name": "-10, 165"
+  },
+  {
+    "lat": -10,
+    "long": 165,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29226,
+    "location_name": "-10, 165"
+  },
+  {
+    "lat": -10,
+    "long": 165,
+    "location": "Lata  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29226,
+    "location_name": "-10, 165"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 161,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29222,
+    "location_name": "-10, 161"
+  },
+  {
+    "lat": -10,
+    "long": 162,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29223,
+    "location_name": "-10, 162"
+  },
+  {
+    "lat": -10,
+    "long": 162,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29223,
+    "location_name": "-10, 162"
+  },
+  {
+    "lat": -10,
+    "long": 160,
+    "location": "Kirakira  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29221,
+    "location_name": "-10, 160"
+  },
+  {
+    "lat": -9,
+    "long": -71,
+    "location": "Tarauacá  Brazil",
+    "continent": "South America",
+    "location_key": 29351,
+    "location_name": "-9, -71"
+  },
+  {
+    "lat": -9,
+    "long": -71,
+    "location": "Tarauacá  Brazil",
+    "continent": "South America",
+    "location_key": 29351,
+    "location_name": "-9, -71"
+  },
+  {
+    "lat": -9,
+    "long": 107,
+    "location": "Singaparna  Indonesia",
+    "continent": NaN,
+    "location_key": 29529,
+    "location_name": "-9, 107"
+  },
+  {
+    "lat": -9,
+    "long": 122,
+    "location": "Naisano Dua  Indonesia",
+    "continent": NaN,
+    "location_key": 29544,
+    "location_name": "-9, 122"
+  },
+  {
+    "lat": -9,
+    "long": 159,
+    "location": "Malango  Solomon Islands",
+    "continent": "Oceania",
+    "location_key": 29581,
+    "location_name": "-9, 159"
+  },
+  {
+    "lat": -9,
+    "long": 157,
+    "location": "Gizo  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29579,
+    "location_name": "-9, 157"
+  },
+  {
+    "lat": -9,
+    "long": 158,
+    "location": "Malango  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29580,
+    "location_name": "-9, 158"
+  },
+  {
+    "lat": -9,
+    "long": 158,
+    "location": "Malango  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29580,
+    "location_name": "-9, 158"
+  },
+  {
+    "lat": -9,
+    "long": 157,
+    "location": "Gizo  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29579,
+    "location_name": "-9, 157"
+  },
+  {
+    "lat": -9,
+    "long": 159,
+    "location": "Malango  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29581,
+    "location_name": "-9, 159"
+  },
+  {
+    "lat": -9,
+    "long": 159,
+    "location": "Malango  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29581,
+    "location_name": "-9, 159"
+  },
+  {
+    "lat": -8,
+    "long": -71,
+    "location": "Tarauaca  Brazil",
+    "continent": "South America",
+    "location_key": 29712,
+    "location_name": "-8, -71"
+  },
+  {
+    "lat": -8,
+    "long": 116,
+    "location": "Labuan Lombok  Indonesia",
+    "continent": NaN,
+    "location_key": 29899,
+    "location_name": "-8, 116"
+  },
+  {
+    "lat": -8,
+    "long": 116,
+    "location": "Labuan Lombok  Indonesia",
+    "continent": NaN,
+    "location_key": 29899,
+    "location_name": "-8, 116"
+  },
+  {
+    "lat": -8,
+    "long": 118,
+    "location": "Bima  Indonesia",
+    "continent": NaN,
+    "location_key": 29901,
+    "location_name": "-8, 118"
+  },
+  {
+    "lat": -8,
+    "long": 118,
+    "location": "Dompu  Indonesia",
+    "continent": NaN,
+    "location_key": 29901,
+    "location_name": "-8, 118"
+  },
+  {
+    "lat": -8,
+    "long": 118,
+    "location": "Dompu  Indonesia",
+    "continent": NaN,
+    "location_key": 29901,
+    "location_name": "-8, 118"
+  },
+  {
+    "lat": -8,
+    "long": 120,
+    "location": "Ruteng  Indonesia",
+    "continent": NaN,
+    "location_key": 29903,
+    "location_name": "-8, 120"
+  },
+  {
+    "lat": -8,
+    "long": 158,
+    "location": "Buala  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29941,
+    "location_name": "-8, 158"
+  },
+  {
+    "lat": -8,
+    "long": 157,
+    "location": "Gizo  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29940,
+    "location_name": "-8, 157"
+  },
+  {
+    "lat": -8,
+    "long": 157,
+    "location": "Gizo  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29940,
+    "location_name": "-8, 157"
+  },
+  {
+    "lat": -8,
+    "long": 157,
+    "location": "Gizo  Solomon Islands",
+    "continent": NaN,
+    "location_key": 29940,
+    "location_name": "-8, 157"
+  },
+  {
+    "lat": -8,
+    "long": 124,
+    "location": "Maubara  Timor Leste",
+    "continent": NaN,
+    "location_key": 29907,
+    "location_name": "-8, 124"
+  },
+  {
+    "lat": -8,
+    "long": 124,
+    "location": "Maubara  Timor Leste",
+    "continent": NaN,
+    "location_key": 29907,
+    "location_name": "-8, 124"
+  },
+  {
+    "lat": -7,
+    "long": 104,
+    "location": "Labuan  Indonesia",
+    "continent": NaN,
+    "location_key": 30248,
+    "location_name": "-7, 104"
+  },
+  {
+    "lat": -7,
+    "long": 119,
+    "location": "Labuan Bajo  Indonesia",
+    "continent": NaN,
+    "location_key": 30263,
+    "location_name": "-7, 119"
+  },
+  {
+    "lat": -7,
+    "long": 108,
+    "location": "Kawalu  Indonesia",
+    "continent": NaN,
+    "location_key": 30252,
+    "location_name": "-7, 108"
+  },
+  {
+    "lat": -7,
+    "long": 123,
+    "location": "Maumere  Indonesia",
+    "continent": NaN,
+    "location_key": 30267,
+    "location_name": "-7, 123"
+  },
+  {
+    "lat": -7,
+    "long": 122,
+    "location": "Maumere  Indonesia",
+    "continent": NaN,
+    "location_key": 30266,
+    "location_name": "-7, 122"
+  },
+  {
+    "lat": -7,
+    "long": 107,
+    "location": "Banjar  Indonesia",
+    "continent": NaN,
+    "location_key": 30251,
+    "location_name": "-7, 107"
+  },
+  {
+    "lat": -7,
+    "long": 147,
+    "location": "Popondetta  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30291,
+    "location_name": "-7, 147"
+  },
+  {
+    "lat": -7,
+    "long": 154,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30298,
+    "location_name": "-7, 154"
+  },
+  {
+    "lat": -7,
+    "long": 146,
+    "location": "Wau  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30290,
+    "location_name": "-7, 146"
+  },
+  {
+    "lat": -7,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30299,
+    "location_name": "-7, 155"
+  },
+  {
+    "lat": -7,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30299,
+    "location_name": "-7, 155"
+  },
+  {
+    "lat": -7,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30299,
+    "location_name": "-7, 155"
+  },
+  {
+    "lat": -7,
+    "long": -74,
+    "location": "Contamana  Peru",
+    "continent": "South America",
+    "location_key": 30070,
+    "location_name": "-7, -74"
+  },
+  {
+    "lat": -7,
+    "long": 127,
+    "location": "Lospalos  Timor Leste",
+    "continent": NaN,
+    "location_key": 30271,
+    "location_name": "-7, 127"
+  },
+  {
+    "lat": -7,
+    "long": 127,
+    "location": "Lospalos  Timor Leste",
+    "continent": NaN,
+    "location_key": 30271,
+    "location_name": "-7, 127"
+  },
+  {
+    "lat": -7,
+    "long": 128,
+    "location": "Lospalos  Timor Leste",
+    "continent": NaN,
+    "location_key": 30272,
+    "location_name": "-7, 128"
+  },
+  {
+    "lat": -6,
+    "long": 29,
+    "location": "Kalemie  Democratic Republic",
+    "continent": "Africa",
+    "location_key": 30534,
+    "location_name": "-6, 29"
+  },
+  {
+    "lat": -6,
+    "long": 105,
+    "location": "Labuan  Indonesia",
+    "continent": NaN,
+    "location_key": 30610,
+    "location_name": "-6, 105"
+  },
+  {
+    "lat": -6,
+    "long": 123,
+    "location": "Katabu  Indonesia",
+    "continent": NaN,
+    "location_key": 30628,
+    "location_name": "-6, 123"
+  },
+  {
+    "lat": -6,
+    "long": 129,
+    "location": "Saumlaki  Indonesia",
+    "continent": NaN,
+    "location_key": 30634,
+    "location_name": "-6, 129"
+  },
+  {
+    "lat": -6,
+    "long": 130,
+    "location": "Tual  Indonesia",
+    "continent": NaN,
+    "location_key": 30635,
+    "location_name": "-6, 130"
+  },
+  {
+    "lat": -6,
+    "long": 146,
+    "location": "Kainantu  Papua New Guinea",
+    "continent": "Oceania",
+    "location_key": 30651,
+    "location_name": "-6, 146"
+  },
+  {
+    "lat": -6,
+    "long": 146,
+    "location": "Bulolo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30651,
+    "location_name": "-6, 146"
+  },
+  {
+    "lat": -6,
+    "long": 142,
+    "location": "Tari  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30647,
+    "location_name": "-6, 142"
+  },
+  {
+    "lat": -6,
+    "long": 142,
+    "location": "Tari  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30647,
+    "location_name": "-6, 142"
+  },
+  {
+    "lat": -6,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30660,
+    "location_name": "-6, 155"
+  },
+  {
+    "lat": -6,
+    "long": 148,
+    "location": "Kandrian  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30653,
+    "location_name": "-6, 148"
+  },
+  {
+    "lat": -6,
+    "long": 154,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30659,
+    "location_name": "-6, 154"
+  },
+  {
+    "lat": -6,
+    "long": 152,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30657,
+    "location_name": "-6, 152"
+  },
+  {
+    "lat": -6,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30660,
+    "location_name": "-6, 155"
+  },
+  {
+    "lat": -6,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30660,
+    "location_name": "-6, 155"
+  },
+  {
+    "lat": -6,
+    "long": 154,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30659,
+    "location_name": "-6, 154"
+  },
+  {
+    "lat": -6,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30660,
+    "location_name": "-6, 155"
+  },
+  {
+    "lat": -6,
+    "long": 154,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30659,
+    "location_name": "-6, 154"
+  },
+  {
+    "lat": -6,
+    "long": 149,
+    "location": "Kandrian  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30654,
+    "location_name": "-6, 149"
+  },
+  {
+    "lat": -6,
+    "long": 154,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30659,
+    "location_name": "-6, 154"
+  },
+  {
+    "lat": -6,
+    "long": 148,
+    "location": "Finschhafen  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30653,
+    "location_name": "-6, 148"
+  },
+  {
+    "lat": -6,
+    "long": 145,
+    "location": "Kainantu  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30650,
+    "location_name": "-6, 145"
+  },
+  {
+    "lat": -6,
+    "long": 147,
+    "location": "Finschhafen  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30652,
+    "location_name": "-6, 147"
+  },
+  {
+    "lat": -6,
+    "long": 149,
+    "location": "Kandrian  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30654,
+    "location_name": "-6, 149"
+  },
+  {
+    "lat": -6,
+    "long": 151,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30656,
+    "location_name": "-6, 151"
+  },
+  {
+    "lat": -6,
+    "long": 155,
+    "location": "Panguna  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 30660,
+    "location_name": "-6, 155"
+  },
+  {
+    "lat": -5,
+    "long": 110,
+    "location": "Batang  Indonesia",
+    "continent": NaN,
+    "location_key": 30976,
+    "location_name": "-5, 110"
+  },
+  {
+    "lat": -5,
+    "long": 107,
+    "location": "Rengasdengklok  Indonesia",
+    "continent": NaN,
+    "location_key": 30973,
+    "location_name": "-5, 107"
+  },
+  {
+    "lat": -5,
+    "long": 122,
+    "location": "Katabu  Indonesia",
+    "continent": NaN,
+    "location_key": 30988,
+    "location_name": "-5, 122"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 148,
+    "location": "Finschhafen  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31014,
+    "location_name": "-5, 148"
+  },
+  {
+    "lat": -5,
+    "long": 147,
+    "location": "Lae  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31013,
+    "location_name": "-5, 147"
+  },
+  {
+    "lat": -5,
+    "long": 150,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31016,
+    "location_name": "-5, 150"
+  },
+  {
+    "lat": -5,
+    "long": 146,
+    "location": "Madang  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31012,
+    "location_name": "-5, 146"
+  },
+  {
+    "lat": -5,
+    "long": 150,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31016,
+    "location_name": "-5, 150"
+  },
+  {
+    "lat": -5,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31019,
+    "location_name": "-5, 153"
+  },
+  {
+    "lat": -5,
+    "long": 147,
+    "location": "Lae  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31013,
+    "location_name": "-5, 147"
+  },
+  {
+    "lat": -5,
+    "long": 150,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31016,
+    "location_name": "-5, 150"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 150,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31016,
+    "location_name": "-5, 150"
+  },
+  {
+    "lat": -5,
+    "long": 152,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31018,
+    "location_name": "-5, 152"
+  },
+  {
+    "lat": -5,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31019,
+    "location_name": "-5, 153"
+  },
+  {
+    "lat": -5,
+    "long": 151,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31017,
+    "location_name": "-5, 151"
+  },
+  {
+    "lat": -5,
+    "long": 150,
+    "location": "Kimbe  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31016,
+    "location_name": "-5, 150"
+  },
+  {
+    "lat": -5,
+    "long": -75,
+    "location": "Navarro  Peru",
+    "continent": "South America",
+    "location_key": 30791,
+    "location_name": "-5, -75"
+  },
+  {
+    "lat": -5,
+    "long": -76,
+    "location": "Yurimaguas  Peru",
+    "continent": "South America",
+    "location_key": 30790,
+    "location_name": "-5, -76"
+  },
+  {
+    "lat": -5,
+    "long": 150,
+    "location": "New Britain region  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31016,
+    "location_name": "-5, 150"
+  },
+  {
+    "lat": -4,
+    "long": 100,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31327,
+    "location_name": "-4, 100"
+  },
+  {
+    "lat": -4,
+    "long": 101,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31328,
+    "location_name": "-4, 101"
+  },
+  {
+    "lat": -4,
+    "long": 101,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31328,
+    "location_name": "-4, 101"
+  },
+  {
+    "lat": -4,
+    "long": 108,
+    "location": "Pamanukan  Indonesia",
+    "continent": NaN,
+    "location_key": 31335,
+    "location_name": "-4, 108"
+  },
+  {
+    "lat": -4,
+    "long": 94,
+    "location": "Sumatra  Indonesia",
+    "continent": NaN,
+    "location_key": 31321,
+    "location_name": "-4, 94"
+  },
+  {
+    "lat": -4,
+    "long": 129,
+    "location": "Amahai  Indonesia",
+    "continent": NaN,
+    "location_key": 31356,
+    "location_name": "-4, 129"
+  },
+  {
+    "lat": -4,
+    "long": 134,
+    "location": "Tual  Indonesia",
+    "continent": NaN,
+    "location_key": 31361,
+    "location_name": "-4, 134"
+  },
+  {
+    "lat": -4,
+    "long": 133,
+    "location": "Papua  Indonesia",
+    "continent": NaN,
+    "location_key": 31360,
+    "location_name": "-4, 133"
+  },
+  {
+    "lat": -4,
+    "long": 101,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31328,
+    "location_name": "-4, 101"
+  },
+  {
+    "lat": -4,
+    "long": 135,
+    "location": "Papua  Indonesia",
+    "continent": NaN,
+    "location_key": 31362,
+    "location_name": "-4, 135"
+  },
+  {
+    "lat": -4,
+    "long": 123,
+    "location": "Kendari  Indonesia",
+    "continent": NaN,
+    "location_key": 31350,
+    "location_name": "-4, 123"
+  },
+  {
+    "lat": -4,
+    "long": 128,
+    "location": "Ambon  Indonesia",
+    "continent": NaN,
+    "location_key": 31355,
+    "location_name": "-4, 128"
+  },
+  {
+    "lat": -4,
+    "long": 102,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31329,
+    "location_name": "-4, 102"
+  },
+  {
+    "lat": -4,
+    "long": 101,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31328,
+    "location_name": "-4, 101"
+  },
+  {
+    "lat": -4,
+    "long": 152,
+    "location": "Namatanai  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31379,
+    "location_name": "-4, 152"
+  },
+  {
+    "lat": -4,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31380,
+    "location_name": "-4, 153"
+  },
+  {
+    "lat": -4,
+    "long": 143,
+    "location": "Angoram  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31370,
+    "location_name": "-4, 143"
+  },
+  {
+    "lat": -4,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31380,
+    "location_name": "-4, 153"
+  },
+  {
+    "lat": -4,
+    "long": 152,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31379,
+    "location_name": "-4, 152"
+  },
+  {
+    "lat": -4,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31380,
+    "location_name": "-4, 153"
+  },
+  {
+    "lat": -4,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31380,
+    "location_name": "-4, 153"
+  },
+  {
+    "lat": -4,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31380,
+    "location_name": "-4, 153"
+  },
+  {
+    "lat": -4,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31380,
+    "location_name": "-4, 153"
+  },
+  {
+    "lat": -4,
+    "long": -76,
+    "location": "Barranca  Peru",
+    "continent": "South America",
+    "location_key": 31151,
+    "location_name": "-4, -76"
+  },
+  {
+    "lat": -4,
+    "long": -76,
+    "location": "Barranca  Peru",
+    "continent": "South America",
+    "location_key": 31151,
+    "location_name": "-4, -76"
+  },
+  {
+    "lat": -4,
+    "long": 153,
+    "location": "New Ireland region  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31380,
+    "location_name": "-4, 153"
+  },
+  {
+    "lat": -3,
+    "long": 128,
+    "location": "Kairatu  Indonesia",
+    "continent": NaN,
+    "location_key": 31716,
+    "location_name": "-3, 128"
+  },
+  {
+    "lat": -3,
+    "long": 138,
+    "location": "Abepura  Indonesia",
+    "continent": NaN,
+    "location_key": 31726,
+    "location_name": "-3, 138"
+  },
+  {
+    "lat": -3,
+    "long": 100,
+    "location": "Sungai Penuh  Indonesia",
+    "continent": NaN,
+    "location_key": 31688,
+    "location_name": "-3, 100"
+  },
+  {
+    "lat": -3,
+    "long": 100,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31688,
+    "location_name": "-3, 100"
+  },
+  {
+    "lat": -3,
+    "long": 101,
+    "location": "Bengkulu  Indonesia",
+    "continent": NaN,
+    "location_key": 31689,
+    "location_name": "-3, 101"
+  },
+  {
+    "lat": -3,
+    "long": 127,
+    "location": "Ambon  Indonesia",
+    "continent": NaN,
+    "location_key": 31715,
+    "location_name": "-3, 127"
+  },
+  {
+    "lat": -3,
+    "long": 135,
+    "location": "Nabire  Indonesia",
+    "continent": NaN,
+    "location_key": 31723,
+    "location_name": "-3, 135"
+  },
+  {
+    "lat": -3,
+    "long": 135,
+    "location": "Nabire  Indonesia",
+    "continent": NaN,
+    "location_key": 31723,
+    "location_name": "-3, 135"
+  },
+  {
+    "lat": -3,
+    "long": 135,
+    "location": "Nabire  Indonesia",
+    "continent": NaN,
+    "location_key": 31723,
+    "location_name": "-3, 135"
+  },
+  {
+    "lat": -3,
+    "long": 127,
+    "location": "Ambon  Indonesia",
+    "continent": NaN,
+    "location_key": 31715,
+    "location_name": "-3, 127"
+  },
+  {
+    "lat": -3,
+    "long": 152,
+    "location": "Rabaul  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31740,
+    "location_name": "-3, 152"
+  },
+  {
+    "lat": -3,
+    "long": 153,
+    "location": "Kokopo  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31741,
+    "location_name": "-3, 153"
+  },
+  {
+    "lat": -3,
+    "long": 152,
+    "location": "Rabaul  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31740,
+    "location_name": "-3, 152"
+  },
+  {
+    "lat": -3,
+    "long": 142,
+    "location": "Aitape  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31730,
+    "location_name": "-3, 142"
+  },
+  {
+    "lat": -3,
+    "long": 144,
+    "location": "Angoram  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31732,
+    "location_name": "-3, 144"
+  },
+  {
+    "lat": -3,
+    "long": 152,
+    "location": "Rabaul  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31740,
+    "location_name": "-3, 152"
+  },
+  {
+    "lat": -3,
+    "long": 142,
+    "location": "Aitape  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31730,
+    "location_name": "-3, 142"
+  },
+  {
+    "lat": -3,
+    "long": 142,
+    "location": "Aitape  Papua New Guinea",
+    "continent": NaN,
+    "location_key": 31730,
+    "location_name": "-3, 142"
+  },
+  {
+    "lat": -2,
+    "long": -77,
+    "location": "Palora  Ecuador",
+    "continent": "South America",
+    "location_key": 31872,
+    "location_name": "-2, -77"
+  },
+  {
+    "lat": -2,
+    "long": -77,
+    "location": "Macas  Ecuador",
+    "continent": "South America",
+    "location_key": 31872,
+    "location_name": "-2, -77"
+  },
+  {
+    "lat": -2,
+    "long": 100,
+    "location": "Sungai Penuh  Indonesia",
+    "continent": "Asia",
+    "location_key": 32049,
+    "location_name": "-2, 100"
+  },
+  {
+    "lat": -2,
+    "long": 100,
+    "location": "Sungai Penuh  Indonesia",
+    "continent": NaN,
+    "location_key": 32049,
+    "location_name": "-2, 100"
+  },
+  {
+    "lat": -2,
+    "long": 138,
+    "location": "Abepura  Indonesia",
+    "continent": NaN,
+    "location_key": 32087,
+    "location_name": "-2, 138"
+  },
+  {
+    "lat": -2,
+    "long": 136,
+    "location": "Biak  Indonesia",
+    "continent": NaN,
+    "location_key": 32085,
+    "location_name": "-2, 136"
+  },
+  {
+    "lat": -2,
+    "long": 136,
+    "location": "Biak  Indonesia",
+    "continent": NaN,
+    "location_key": 32085,
+    "location_name": "-2, 136"
+  },
+  {
+    "lat": -2,
+    "long": 101,
+    "location": "Sungai Penuh  Indonesia",
+    "continent": NaN,
+    "location_key": 32050,
+    "location_name": "-2, 101"
+  },
+  {
+    "lat": -2,
+    "long": 99,
+    "location": "Padang  Indonesia",
+    "continent": NaN,
+    "location_key": 32048,
+    "location_name": "-2, 99"
+  },
+  {
+    "lat": -2,
+    "long": 99,
+    "location": "Padang  Indonesia",
+    "continent": NaN,
+    "location_key": 32048,
+    "location_name": "-2, 99"
+  },
+  {
+    "lat": -2,
+    "long": 99,
+    "location": "Sungai Penuh  Indonesia",
+    "continent": NaN,
+    "location_key": 32048,
+    "location_name": "-2, 99"
+  },
+  {
+    "lat": -2,
+    "long": 99,
+    "location": "Sungai Penuh  Indonesia",
+    "continent": NaN,
+    "location_key": 32048,
+    "location_name": "-2, 99"
+  },
+  {
+    "lat": -2,
+    "long": 99,
+    "location": "Padang  Indonesia",
+    "continent": NaN,
+    "location_key": 32048,
+    "location_name": "-2, 99"
+  },
+  {
+    "lat": -2,
+    "long": 100,
+    "location": "Sungai Penuh  Indonesia",
+    "continent": NaN,
+    "location_key": 32049,
+    "location_name": "-2, 100"
+  },
+  {
+    "lat": -1,
+    "long": 122,
+    "location": "Luwuk  Indonesia",
+    "continent": NaN,
+    "location_key": 32432,
+    "location_name": "-1, 122"
+  },
+  {
+    "lat": -1,
+    "long": 120,
+    "location": "Poso  Indonesia",
+    "continent": NaN,
+    "location_key": 32430,
+    "location_name": "-1, 120"
+  },
+  {
+    "lat": -1,
+    "long": 134,
+    "location": "Manokwari  Indonesia",
+    "continent": NaN,
+    "location_key": 32444,
+    "location_name": "-1, 134"
+  },
+  {
+    "lat": -1,
+    "long": 99,
+    "location": "Padang  Indonesia",
+    "continent": NaN,
+    "location_key": 32409,
+    "location_name": "-1, 99"
+  },
+  {
+    "lat": -1,
+    "long": 100,
+    "location": "Padang  Indonesia",
+    "continent": NaN,
+    "location_key": 32410,
+    "location_name": "-1, 100"
+  },
+  {
+    "lat": -1,
+    "long": 99,
+    "location": "Padang  Indonesia",
+    "continent": NaN,
+    "location_key": 32409,
+    "location_name": "-1, 99"
+  },
+  {
+    "lat": -1,
+    "long": 99,
+    "location": "Padang  Indonesia",
+    "continent": NaN,
+    "location_key": 32409,
+    "location_name": "-1, 99"
+  },
+  {
+    "lat": -1,
+    "long": 133,
+    "location": "Manokwari  Indonesia",
+    "continent": NaN,
+    "location_key": 32443,
+    "location_name": "-1, 133"
+  },
+  {
+    "lat": -1,
+    "long": 134,
+    "location": "Manokwari  Indonesia",
+    "continent": NaN,
+    "location_key": 32444,
+    "location_name": "-1, 134"
+  },
+  {
+    "lat": -1,
+    "long": 99,
+    "location": "Kepulauan Mentawai region  Indonesia",
+    "continent": NaN,
+    "location_key": 32409,
+    "location_name": "-1, 99"
+  },
+  {
+    "lat": 0,
+    "long": -79,
+    "location": "Rosa Zarate  Ecuador",
+    "continent": "South America",
+    "location_key": 32592,
+    "location_name": "0, -79"
+  },
+  {
+    "lat": 0,
+    "long": -79,
+    "location": "Muisne  Ecuador",
+    "continent": "South America",
+    "location_key": 32592,
+    "location_name": "0, -79"
+  },
+  {
+    "lat": 0,
+    "long": -79,
+    "location": "Muisne  Ecuador",
+    "continent": "South America",
+    "location_key": 32592,
+    "location_name": "0, -79"
+  },
+  {
+    "lat": 0,
+    "long": 98,
+    "location": "Pariaman  Indonesia",
+    "continent": "Asia",
+    "location_key": 32769,
+    "location_name": "0, 98"
+  },
+  {
+    "lat": 0,
+    "long": 96,
+    "location": "Sinabang  Indonesia",
+    "continent": NaN,
+    "location_key": 32767,
+    "location_name": "0, 96"
+  },
+  {
+    "lat": 0,
+    "long": 128,
+    "location": "Laiwui  Indonesia",
+    "continent": NaN,
+    "location_key": 32799,
+    "location_name": "0, 128"
+  },
+  {
+    "lat": 0,
+    "long": 126,
+    "location": "Kota Ternate  Indonesia",
+    "continent": NaN,
+    "location_key": 32797,
+    "location_name": "0, 126"
+  },
+  {
+    "lat": 0,
+    "long": 119,
+    "location": "Palu  Indonesia",
+    "continent": NaN,
+    "location_key": 32790,
+    "location_name": "0, 119"
+  },
+  {
+    "lat": 0,
+    "long": 131,
+    "location": "Sorong  Indonesia",
+    "continent": NaN,
+    "location_key": 32802,
+    "location_name": "0, 131"
+  },
+  {
+    "lat": 0,
+    "long": 99,
+    "location": "Pariaman  Indonesia",
+    "continent": NaN,
+    "location_key": 32770,
+    "location_name": "0, 99"
+  },
+  {
+    "lat": 0,
+    "long": 133,
+    "location": "Manokwari  Indonesia",
+    "continent": NaN,
+    "location_key": 32804,
+    "location_name": "0, 133"
+  },
+  {
+    "lat": 0,
+    "long": 132,
+    "location": "Manokwari  Indonesia",
+    "continent": NaN,
+    "location_key": 32803,
+    "location_name": "0, 132"
+  },
+  {
+    "lat": 0,
+    "long": 97,
+    "location": "Singkil  Indonesia",
+    "continent": NaN,
+    "location_key": 32768,
+    "location_name": "0, 97"
+  },
+  {
+    "lat": 0,
+    "long": 98,
+    "location": "Padangsidempuan  Indonesia",
+    "continent": NaN,
+    "location_key": 32769,
+    "location_name": "0, 98"
+  },
+  {
+    "lat": 0,
+    "long": 133,
+    "location": "Manokwari  Indonesia",
+    "continent": NaN,
+    "location_key": 32804,
+    "location_name": "0, 133"
+  },
+  {
+    "lat": 0,
+    "long": 133,
+    "location": "Manokwari  Indonesia",
+    "continent": NaN,
+    "location_key": 32804,
+    "location_name": "0, 133"
+  },
+  {
+    "lat": 0,
+    "long": -26,
+    "location": "central Mid-Atlantic Ridge",
+    "continent": NaN,
+    "location_key": 32645,
+    "location_name": "0, -26"
+  },
+  {
+    "lat": 0,
+    "long": -29,
+    "location": "central Mid-Atlantic Ridge",
+    "continent": NaN,
+    "location_key": 32642,
+    "location_name": "0, -29"
+  },
+  {
+    "lat": 0,
+    "long": 92,
+    "location": "off the west coast of northern Sumatra",
+    "continent": NaN,
+    "location_key": 32763,
+    "location_name": "0, 92"
+  },
+  {
+    "lat": 1,
+    "long": -77,
+    "location": "Yacuanquer  Colombia",
+    "continent": "South America",
+    "location_key": 32955,
+    "location_name": "1, -77"
+  },
+  {
+    "lat": 1,
+    "long": -76,
+    "location": "San Agustín  Colombia",
+    "continent": "South America",
+    "location_key": 32956,
+    "location_name": "1, -76"
+  },
+  {
+    "lat": 1,
+    "long": 122,
+    "location": "Gorontalo  Indonesia",
+    "continent": NaN,
+    "location_key": 33154,
+    "location_name": "1, 122"
+  },
+  {
+    "lat": 1,
+    "long": 127,
+    "location": "Tobelo  Indonesia",
+    "continent": NaN,
+    "location_key": 33159,
+    "location_name": "1, 127"
+  },
+  {
+    "lat": 1,
+    "long": 126,
+    "location": "Ternate  Indonesia",
+    "continent": NaN,
+    "location_key": 33158,
+    "location_name": "1, 126"
+  },
+  {
+    "lat": 1,
+    "long": 97,
+    "location": "Singkil  Indonesia",
+    "continent": NaN,
+    "location_key": 33129,
+    "location_name": "1, 97"
+  },
+  {
+    "lat": 1,
+    "long": 97,
+    "location": "Singkil  Indonesia",
+    "continent": NaN,
+    "location_key": 33129,
+    "location_name": "1, 97"
+  },
+  {
+    "lat": 1,
+    "long": 126,
+    "location": "Ternate  Indonesia",
+    "continent": NaN,
+    "location_key": 33158,
+    "location_name": "1, 126"
+  },
+  {
+    "lat": 2,
+    "long": -77,
+    "location": "Timbiquí  Colombia",
+    "continent": NaN,
+    "location_key": 33316,
+    "location_name": "2, -77"
+  },
+  {
+    "lat": 2,
+    "long": 97,
+    "location": "Kabanjahe  Indonesia",
+    "continent": NaN,
+    "location_key": 33490,
+    "location_name": "2, 97"
+  },
+  {
+    "lat": 2,
+    "long": 97,
+    "location": "Sinabang  Indonesia",
+    "continent": NaN,
+    "location_key": 33490,
+    "location_name": "2, 97"
+  },
+  {
+    "lat": 2,
+    "long": 95,
+    "location": "Sinabang  Indonesia",
+    "continent": NaN,
+    "location_key": 33488,
+    "location_name": "2, 95"
+  },
+  {
+    "lat": 2,
+    "long": 127,
+    "location": "Tobelo  Indonesia",
+    "continent": NaN,
+    "location_key": 33520,
+    "location_name": "2, 127"
+  },
+  {
+    "lat": 2,
+    "long": 96,
+    "location": "Sinabang  Indonesia",
+    "continent": NaN,
+    "location_key": 33489,
+    "location_name": "2, 96"
+  },
+  {
+    "lat": 2,
+    "long": 97,
+    "location": "Singkil  Indonesia",
+    "continent": NaN,
+    "location_key": 33490,
+    "location_name": "2, 97"
+  },
+  {
+    "lat": 2,
+    "long": 95,
+    "location": "Sinabang  Indonesia",
+    "continent": NaN,
+    "location_key": 33488,
+    "location_name": "2, 95"
+  },
+  {
+    "lat": 2,
+    "long": 128,
+    "location": "Tobelo  Indonesia",
+    "continent": NaN,
+    "location_key": 33521,
+    "location_name": "2, 128"
+  },
+  {
+    "lat": 2,
+    "long": 96,
+    "location": "Sinabang  Indonesia",
+    "continent": NaN,
+    "location_key": 33489,
+    "location_name": "2, 96"
+  },
+  {
+    "lat": 2,
+    "long": 93,
+    "location": "off the west coast of northern Sumatra",
+    "continent": NaN,
+    "location_key": 33486,
+    "location_name": "2, 93"
+  },
+  {
+    "lat": 2,
+    "long": 93,
+    "location": "off the west coast of northern Sumatra",
+    "continent": NaN,
+    "location_key": 33486,
+    "location_name": "2, 93"
+  },
+  {
+    "lat": 3,
+    "long": 95,
+    "location": "2004 Sumatra - Andaman Islands Earthquake",
+    "continent": NaN,
+    "location_key": 33849,
+    "location_name": "3, 95"
+  },
+  {
+    "lat": 3,
+    "long": 96,
+    "location": "Meulaboh  Indonesia",
+    "continent": NaN,
+    "location_key": 33850,
+    "location_name": "3, 96"
+  },
+  {
+    "lat": 3,
+    "long": 126,
+    "location": "Sarangani  Philippines",
+    "continent": NaN,
+    "location_key": 33880,
+    "location_name": "3, 126"
+  },
+  {
+    "lat": 4,
+    "long": -77,
+    "location": "Pizarro  Colombia",
+    "continent": NaN,
+    "location_key": 34038,
+    "location_name": "4, -77"
+  },
+  {
+    "lat": 4,
+    "long": 126,
+    "location": "Pulau-Pulau Talaud  Indonesia",
+    "continent": NaN,
+    "location_key": 34241,
+    "location_name": "4, 126"
+  },
+  {
+    "lat": 5,
+    "long": 127,
+    "location": "Pondaguitan  Philippines",
+    "continent": NaN,
+    "location_key": 34603,
+    "location_name": "5, 127"
+  },
+  {
+    "lat": 5,
+    "long": 123,
+    "location": "Palimbang  Philippines",
+    "continent": NaN,
+    "location_key": 34599,
+    "location_name": "5, 123"
+  },
+  {
+    "lat": 6,
+    "long": 123,
+    "location": "Sangay  Philippines",
+    "continent": NaN,
+    "location_key": 34960,
+    "location_name": "6, 123"
+  },
+  {
+    "lat": 6,
+    "long": 123,
+    "location": "Bantogon  Philippines",
+    "continent": NaN,
+    "location_key": 34960,
+    "location_name": "6, 123"
+  },
+  {
+    "lat": 6,
+    "long": 124,
+    "location": "Mindanao  Philippines",
+    "continent": NaN,
+    "location_key": 34961,
+    "location_name": "6, 124"
+  },
+  {
+    "lat": 6,
+    "long": 126,
+    "location": "Mindanao  Philippines",
+    "continent": NaN,
+    "location_key": 34963,
+    "location_name": "6, 126"
+  },
+  {
+    "lat": 7,
+    "long": -82,
+    "location": "Punta de Burica  Panama",
+    "continent": NaN,
+    "location_key": 35116,
+    "location_name": "7, -82"
+  },
+  {
+    "lat": 7,
+    "long": 91,
+    "location": "Nicobar Islands  India region",
+    "continent": NaN,
+    "location_key": 35289,
+    "location_name": "7, 91"
+  },
+  {
+    "lat": 8,
+    "long": 92,
+    "location": "Nicobar Islands  India region",
+    "continent": NaN,
+    "location_key": 35651,
+    "location_name": "8, 92"
+  },
+  {
+    "lat": 8,
+    "long": -82,
+    "location": "Progreso  Panama",
+    "continent": NaN,
+    "location_key": 35477,
+    "location_name": "8, -82"
+  },
+  {
+    "lat": 9,
+    "long": 123,
+    "location": "Jimalalud  Philippines",
+    "continent": NaN,
+    "location_key": 36043,
+    "location_name": "9, 123"
+  },
+  {
+    "lat": 10,
+    "long": -85,
+    "location": "Ho1cha  Costa Rica",
+    "continent": NaN,
+    "location_key": 36196,
+    "location_name": "10, -85"
+  },
+  {
+    "lat": 10,
+    "long": 126,
+    "location": "Sulangan  Philippines",
+    "continent": NaN,
+    "location_key": 36407,
+    "location_name": "10, 126"
+  },
+  {
+    "lat": 10,
+    "long": -42,
+    "location": "northern Mid-Atlantic Ridge",
+    "continent": NaN,
+    "location_key": 36239,
+    "location_name": "10, -42"
+  },
+  {
+    "lat": 11,
+    "long": -86,
+    "location": "San Juan del Sur  Nicaragua",
+    "continent": NaN,
+    "location_key": 36556,
+    "location_name": "11, -86"
+  },
+  {
+    "lat": 11,
+    "long": 91,
+    "location": "Bamboo Flat  India",
+    "continent": NaN,
+    "location_key": 36733,
+    "location_name": "11, 91"
+  },
+  {
+    "lat": 11,
+    "long": -85,
+    "location": "Belén  Nicaragua",
+    "continent": NaN,
+    "location_key": 36557,
+    "location_name": "11, -85"
+  },
+  {
+    "lat": 11,
+    "long": -86,
+    "location": "Masachapa  Nicaragua",
+    "continent": NaN,
+    "location_key": 36556,
+    "location_name": "11, -86"
+  },
+  {
+    "lat": 11,
+    "long": -86,
+    "location": "Masachapa  Nicaragua",
+    "continent": NaN,
+    "location_key": 36556,
+    "location_name": "11, -86"
+  },
+  {
+    "lat": 11,
+    "long": 124,
+    "location": "Lim-oo  Philippines",
+    "continent": NaN,
+    "location_key": 36766,
+    "location_name": "11, 124"
+  },
+  {
+    "lat": 12,
+    "long": 144,
+    "location": "Inara1 Village  Guam",
+    "continent": NaN,
+    "location_key": 37147,
+    "location_name": "12, 144"
+  },
+  {
+    "lat": 12,
+    "long": -87,
+    "location": "Jiquilillo  Nicaragua",
+    "continent": NaN,
+    "location_key": 36916,
+    "location_name": "12, -87"
+  },
+  {
+    "lat": 12,
+    "long": 124,
+    "location": "San Pedro  Philippines",
+    "continent": NaN,
+    "location_key": 37127,
+    "location_name": "12, 124"
+  },
+  {
+    "lat": 12,
+    "long": 125,
+    "location": "Can-Avid  Philippines",
+    "continent": NaN,
+    "location_key": 37128,
+    "location_name": "12, 125"
+  },
+  {
+    "lat": 12,
+    "long": -88,
+    "location": "Puerto El Triunfo  El Salvador",
+    "continent": NaN,
+    "location_key": 36915,
+    "location_name": "12, -88"
+  },
+  {
+    "lat": 13,
+    "long": -58,
+    "location": "Bathsheba  Barbados",
+    "continent": NaN,
+    "location_key": 37306,
+    "location_name": "13, -58"
+  },
+  {
+    "lat": 13,
+    "long": -89,
+    "location": "La Libertad  El Salvador",
+    "continent": NaN,
+    "location_key": 37275,
+    "location_name": "13, -89"
+  },
+  {
+    "lat": 13,
+    "long": -88,
+    "location": "Cojutepeque  El Salvador",
+    "continent": NaN,
+    "location_key": 37276,
+    "location_name": "13, -88"
+  },
+  {
+    "lat": 13,
+    "long": 144,
+    "location": "Piti Village  Guam",
+    "continent": NaN,
+    "location_key": 37508,
+    "location_name": "13, 144"
+  },
+  {
+    "lat": 13,
+    "long": 144,
+    "location": "Merizo Village  Guam",
+    "continent": NaN,
+    "location_key": 37508,
+    "location_name": "13, 144"
+  },
+  {
+    "lat": 13,
+    "long": -91,
+    "location": "Champerico  Guatemala",
+    "continent": NaN,
+    "location_key": 37273,
+    "location_name": "13, -91"
+  },
+  {
+    "lat": 13,
+    "long": -90,
+    "location": "Iztapa  Guatemala",
+    "continent": NaN,
+    "location_key": 37274,
+    "location_name": "13, -90"
+  },
+  {
+    "lat": 13,
+    "long": 92,
+    "location": "Bamboo Flat  India",
+    "continent": NaN,
+    "location_key": 37456,
+    "location_name": "13, 92"
+  },
+  {
+    "lat": 13,
+    "long": 93,
+    "location": "Bamboo Flat  India",
+    "continent": NaN,
+    "location_key": 37457,
+    "location_name": "13, 93"
+  },
+  {
+    "lat": 13,
+    "long": -90,
+    "location": "Puerto San José  Guatemala",
+    "continent": NaN,
+    "location_key": 37274,
+    "location_name": "13, -90"
+  },
+  {
+    "lat": 13,
+    "long": -90,
+    "location": "Puerto San José  Guatemala",
+    "continent": NaN,
+    "location_key": 37274,
+    "location_name": "13, -90"
+  },
+  {
+    "lat": 13,
+    "long": 120,
+    "location": "Hukay  Philippines",
+    "continent": "Asia",
+    "location_key": 37484,
+    "location_name": "13, 120"
+  },
+  {
+    "lat": 13,
+    "long": 120,
+    "location": "Talisay  Philippines",
+    "continent": NaN,
+    "location_key": 37484,
+    "location_name": "13, 120"
+  },
+  {
+    "lat": 13,
+    "long": 125,
+    "location": "Philippine Islands region",
+    "continent": NaN,
+    "location_key": 37489,
+    "location_name": "13, 125"
+  },
+  {
+    "lat": 13,
+    "long": -88,
+    "location": "Puerto El Triunfo  El Salvador",
+    "continent": NaN,
+    "location_key": 37276,
+    "location_name": "13, -88"
+  },
+  {
+    "lat": 14,
+    "long": -58,
+    "location": "Greenland  Barbados",
+    "continent": NaN,
+    "location_key": 37667,
+    "location_name": "14, -58"
+  },
+  {
+    "lat": 14,
+    "long": -92,
+    "location": "Brisas Barra de Suchiate  Mexico",
+    "continent": NaN,
+    "location_key": 37633,
+    "location_name": "14, -92"
+  },
+  {
+    "lat": 14,
+    "long": -92,
+    "location": "San Pablo  Guatemala",
+    "continent": NaN,
+    "location_key": 37633,
+    "location_name": "14, -92"
+  },
+  {
+    "lat": 14,
+    "long": -92,
+    "location": "Champerico  Guatemala",
+    "continent": NaN,
+    "location_key": 37633,
+    "location_name": "14, -92"
+  },
+  {
+    "lat": 14,
+    "long": 92,
+    "location": "Bamboo Flat  India",
+    "continent": NaN,
+    "location_key": 37817,
+    "location_name": "14, 92"
+  },
+  {
+    "lat": 14,
+    "long": -61,
+    "location": "Basse-Pointe  3tinique",
+    "continent": NaN,
+    "location_key": 37664,
+    "location_name": "14, -61"
+  },
+  {
+    "lat": 14,
+    "long": -92,
+    "location": "Puerto Madero  Mexico",
+    "continent": NaN,
+    "location_key": 37633,
+    "location_name": "14, -92"
+  },
+  {
+    "lat": 14,
+    "long": -92,
+    "location": "Puerto Madero  Mexico",
+    "continent": NaN,
+    "location_key": 37633,
+    "location_name": "14, -92"
+  },
+  {
+    "lat": 14,
+    "long": 146,
+    "location": "San Jose Village  Northern 3iana Islands",
+    "continent": NaN,
+    "location_key": 37871,
+    "location_name": "14, 146"
+  },
+  {
+    "lat": 15,
+    "long": -93,
+    "location": "Manuel Ávila Camacho (Ponte Duro)  Mexico",
+    "continent": NaN,
+    "location_key": 37993,
+    "location_name": "15, -93"
+  },
+  {
+    "lat": 15,
+    "long": -93,
+    "location": "Chiapas  Mexico",
+    "continent": NaN,
+    "location_key": 37993,
+    "location_name": "15, -93"
+  },
+  {
+    "lat": 15,
+    "long": -95,
+    "location": "Santa 3ía Xadani  Mexico",
+    "continent": "North America",
+    "location_key": 37991,
+    "location_name": "15, -95"
+  },
+  {
+    "lat": 16,
+    "long": -97,
+    "location": "Pinotepa de Don Luis  Mexico",
+    "continent": "North America",
+    "location_key": 38350,
+    "location_name": "16, -97"
+  },
+  {
+    "lat": 16,
+    "long": -94,
+    "location": "General Pascual Fentes  Mexico",
+    "continent": NaN,
+    "location_key": 38353,
+    "location_name": "16, -94"
+  },
+  {
+    "lat": 16,
+    "long": -98,
+    "location": "Santiago Llano Grande  Mexico",
+    "continent": "North America",
+    "location_key": 38349,
+    "location_name": "16, -98"
+  },
+  {
+    "lat": 16,
+    "long": -86,
+    "location": "Guanaja  Honduras",
+    "continent": NaN,
+    "location_key": 38361,
+    "location_name": "16, -86"
+  },
+  {
+    "lat": 16,
+    "long": -99,
+    "location": "Acapulco  Mexico",
+    "continent": "North America",
+    "location_key": 38348,
+    "location_name": "16, -99"
+  },
+  {
+    "lat": 16,
+    "long": -100,
+    "location": "Nuxco  Mexico",
+    "continent": "North America",
+    "location_key": 38347,
+    "location_name": "16, -100"
+  },
+  {
+    "lat": 17,
+    "long": -94,
+    "location": "Helio García Alfaro  Mexico",
+    "continent": NaN,
+    "location_key": 38714,
+    "location_name": "17, -94"
+  },
+  {
+    "lat": 17,
+    "long": -83,
+    "location": "Barra Patuca  Honduras",
+    "continent": NaN,
+    "location_key": 38725,
+    "location_name": "17, -83"
+  },
+  {
+    "lat": 17,
+    "long": -100,
+    "location": "Coyuquilla Norte  Mexico",
+    "continent": "North America",
+    "location_key": 38708,
+    "location_name": "17, -100"
+  },
+  {
+    "lat": 17,
+    "long": -99,
+    "location": "Nuevo Balsas  Mexico",
+    "continent": "North America",
+    "location_key": 38709,
+    "location_name": "17, -99"
+  },
+  {
+    "lat": 17,
+    "long": 120,
+    "location": "Bantay  Philippines",
+    "continent": "Asia",
+    "location_key": 38928,
+    "location_name": "17, 120"
+  },
+  {
+    "lat": 18,
+    "long": -81,
+    "location": "George Town  Cayman Islands",
+    "continent": NaN,
+    "location_key": 39088,
+    "location_name": "18, -81"
+  },
+  {
+    "lat": 18,
+    "long": -106,
+    "location": "La Cruz de Loreto  Mexico",
+    "continent": NaN,
+    "location_key": 39063,
+    "location_name": "18, -106"
+  },
+  {
+    "lat": 18,
+    "long": -73,
+    "location": "Nippes  Haiti",
+    "continent": "North America",
+    "location_key": 39096,
+    "location_name": "18, -73"
+  },
+  {
+    "lat": 18,
+    "long": -72,
+    "location": "Léogâne  Haiti",
+    "continent": NaN,
+    "location_key": 39097,
+    "location_name": "18, -72"
+  },
+  {
+    "lat": 18,
+    "long": -102,
+    "location": "Aguililla  Mexico",
+    "continent": "North America",
+    "location_key": 39067,
+    "location_name": "18, -102"
+  },
+  {
+    "lat": 18,
+    "long": -103,
+    "location": "Aguililla  Mexico",
+    "continent": "North America",
+    "location_key": 39066,
+    "location_name": "18, -103"
+  },
+  {
+    "lat": 18,
+    "long": -98,
+    "location": "Matzaco  Mexico",
+    "continent": "North America",
+    "location_key": 39071,
+    "location_name": "18, -98"
+  },
+  {
+    "lat": 18,
+    "long": -102,
+    "location": "El Habillal  Mexico",
+    "continent": "North America",
+    "location_key": 39067,
+    "location_name": "18, -102"
+  },
+  {
+    "lat": 18,
+    "long": -104,
+    "location": "Cuyutlán  Mexico",
+    "continent": "North America",
+    "location_key": 39065,
+    "location_name": "18, -104"
+  },
+  {
+    "lat": 18,
+    "long": 145,
+    "location": "Pagan region  Northern 3iana Islands",
+    "continent": NaN,
+    "location_key": 39314,
+    "location_name": "18, 145"
+  },
+  {
+    "lat": 18,
+    "long": 145,
+    "location": "Pagan region  Northern 3iana Islands",
+    "continent": NaN,
+    "location_key": 39314,
+    "location_name": "18, 145"
+  },
+  {
+    "lat": 19,
+    "long": -155,
+    "location": "Leilani Estates  Hawaii",
+    "continent": NaN,
+    "location_key": 39375,
+    "location_name": "19, -155"
+  },
+  {
+    "lat": 19,
+    "long": -155,
+    "location": "Puako  Hawaii",
+    "continent": NaN,
+    "location_key": 39375,
+    "location_name": "19, -155"
+  },
+  {
+    "lat": 19,
+    "long": -78,
+    "location": "Lucea  Jamaica",
+    "continent": NaN,
+    "location_key": 39452,
+    "location_name": "19, -78"
+  },
+  {
+    "lat": 19,
+    "long": 95,
+    "location": "Taungdwingyi  Myan3",
+    "continent": "Asia",
+    "location_key": 39625,
+    "location_name": "19, 95"
+  },
+  {
+    "lat": 20,
+    "long": 94,
+    "location": "Chauk  Myan3",
+    "continent": "Asia",
+    "location_key": 39985,
+    "location_name": "20, 94"
+  },
+  {
+    "lat": 20,
+    "long": 99,
+    "location": "Tachilek  Myan3",
+    "continent": "Asia",
+    "location_key": 39990,
+    "location_name": "20, 99"
+  },
+  {
+    "lat": 21,
+    "long": 120,
+    "location": "Hengchun  Taiwan",
+    "continent": "Asia",
+    "location_key": 40372,
+    "location_name": "21, 120"
+  },
+  {
+    "lat": 21,
+    "long": 120,
+    "location": "Hengchun  Taiwan",
+    "continent": "Asia",
+    "location_key": 40372,
+    "location_name": "21, 120"
+  },
+  {
+    "lat": 23,
+    "long": 70,
+    "location": "Bhach?u  India",
+    "continent": "Asia",
+    "location_key": 41044,
+    "location_name": "23, 70"
+  },
+  {
+    "lat": 23,
+    "long": 126,
+    "location": "Hirara  Japan",
+    "continent": NaN,
+    "location_key": 41100,
+    "location_name": "23, 126"
+  },
+  {
+    "lat": 23,
+    "long": 122,
+    "location": "Yonakuni  Japan",
+    "continent": NaN,
+    "location_key": 41096,
+    "location_name": "23, 122"
+  },
+  {
+    "lat": 23,
+    "long": 94,
+    "location": "Mawlaik  Myan3",
+    "continent": "Asia",
+    "location_key": 41068,
+    "location_name": "23, 94"
+  },
+  {
+    "lat": 23,
+    "long": 95,
+    "location": "Shwebo  Myan3",
+    "continent": "Asia",
+    "location_key": 41069,
+    "location_name": "23, 95"
+  },
+  {
+    "lat": 23,
+    "long": 121,
+    "location": "Yujing  Taiwan",
+    "continent": "Asia",
+    "location_key": 41095,
+    "location_name": "23, 121"
+  },
+  {
+    "lat": 23,
+    "long": 121,
+    "location": "Lugu  Taiwan",
+    "continent": "Asia",
+    "location_key": 41095,
+    "location_name": "23, 121"
+  },
+  {
+    "lat": 23,
+    "long": 121,
+    "location": "Hualien City  Taiwan",
+    "continent": "Asia",
+    "location_key": 41095,
+    "location_name": "23, 121"
+  },
+  {
+    "lat": 23,
+    "long": 121,
+    "location": "Yujing  Taiwan",
+    "continent": "Asia",
+    "location_key": 41095,
+    "location_name": "23, 121"
+  },
+  {
+    "lat": 24,
+    "long": 93,
+    "location": "Imph?l  India",
+    "continent": "Asia",
+    "location_key": 41428,
+    "location_name": "24, 93"
+  },
+  {
+    "lat": 24,
+    "long": 122,
+    "location": "Yonakuni  Japan",
+    "continent": NaN,
+    "location_key": 41457,
+    "location_name": "24, 122"
+  },
+  {
+    "lat": 24,
+    "long": -109,
+    "location": "Topolobampo  Mexico",
+    "continent": NaN,
+    "location_key": 41226,
+    "location_name": "24, -109"
+  },
+  {
+    "lat": 24,
+    "long": -109,
+    "location": "El Huitusi  Mexico",
+    "continent": NaN,
+    "location_key": 41226,
+    "location_name": "24, -109"
+  },
+  {
+    "lat": 24,
+    "long": 122,
+    "location": "Hualien City  Taiwan",
+    "continent": "Asia",
+    "location_key": 41457,
+    "location_name": "24, 122"
+  },
+  {
+    "lat": 25,
+    "long": 128,
+    "location": "Katsuren-haebaru  Japan",
+    "continent": NaN,
+    "location_key": 41824,
+    "location_name": "25, 128"
+  },
+  {
+    "lat": 26,
+    "long": -110,
+    "location": "Etchoropo  Mexico",
+    "continent": NaN,
+    "location_key": 41947,
+    "location_name": "26, -110"
+  },
+  {
+    "lat": 26,
+    "long": 65,
+    "location": "Bela  Pakistan",
+    "continent": "Asia",
+    "location_key": 42122,
+    "location_name": "26, 65"
+  },
+  {
+    "lat": 27,
+    "long": 88,
+    "location": "Mangan  India",
+    "continent": "Asia",
+    "location_key": 42506,
+    "location_name": "27, 88"
+  },
+  {
+    "lat": 27,
+    "long": 127,
+    "location": "Nago  Japan",
+    "continent": NaN,
+    "location_key": 42545,
+    "location_name": "27, 127"
+  },
+  {
+    "lat": 27,
+    "long": 139,
+    "location": "Bonin Islands  Japan region",
+    "continent": NaN,
+    "location_key": 42557,
+    "location_name": "27, 139"
+  },
+  {
+    "lat": 27,
+    "long": 140,
+    "location": "Bonin Islands  Japan region",
+    "continent": NaN,
+    "location_key": 42558,
+    "location_name": "27, 140"
+  },
+  {
+    "lat": 27,
+    "long": 86,
+    "location": "Kod?ri??  Nepal",
+    "continent": "Asia",
+    "location_key": 42504,
+    "location_name": "27, 86"
+  },
+  {
+    "lat": 27,
+    "long": 65,
+    "location": "Khuzdar  Pakistan",
+    "continent": "Asia",
+    "location_key": 42483,
+    "location_name": "27, 65"
+  },
+  {
+    "lat": 28,
+    "long": 61,
+    "location": "Kh?sh  Iran",
+    "continent": "Asia",
+    "location_key": 42840,
+    "location_name": "28, 61"
+  },
+  {
+    "lat": 28,
+    "long": 59,
+    "location": "Bam  Iran",
+    "continent": "Asia",
+    "location_key": 42838,
+    "location_name": "28, 59"
+  },
+  {
+    "lat": 28,
+    "long": 58,
+    "location": "Bam  Iran",
+    "continent": "Asia",
+    "location_key": 42837,
+    "location_name": "28, 58"
+  },
+  {
+    "lat": 28,
+    "long": 128,
+    "location": "Naze  Japan",
+    "continent": NaN,
+    "location_key": 42907,
+    "location_name": "28, 128"
+  },
+  {
+    "lat": 28,
+    "long": -112,
+    "location": "Bahía de Kino  Mexico",
+    "continent": NaN,
+    "location_key": 42667,
+    "location_name": "28, -112"
+  },
+  {
+    "lat": 28,
+    "long": -113,
+    "location": "San Luis  Mexico",
+    "continent": "North America",
+    "location_key": 42666,
+    "location_name": "28, -113"
+  },
+  {
+    "lat": 28,
+    "long": 84,
+    "location": "Bharatpur  Nepal",
+    "continent": "Asia",
+    "location_key": 42863,
+    "location_name": "28, 84"
+  },
+  {
+    "lat": 28,
+    "long": 84,
+    "location": "Bharatpur  Nepal",
+    "continent": "Asia",
+    "location_key": 42863,
+    "location_name": "28, 84"
+  },
+  {
+    "lat": 28,
+    "long": 63,
+    "location": "Dalbandin  Pakistan",
+    "continent": "Asia",
+    "location_key": 42842,
+    "location_name": "28, 63"
+  },
+  {
+    "lat": 29,
+    "long": 102,
+    "location": "Kangding  China",
+    "continent": "Asia",
+    "location_key": 43242,
+    "location_name": "29, 102"
+  },
+  {
+    "lat": 29,
+    "long": 129,
+    "location": "Naze  Japan",
+    "continent": NaN,
+    "location_key": 43269,
+    "location_name": "29, 129"
+  },
+  {
+    "lat": 29,
+    "long": 138,
+    "location": "Izu Islands  Japan region",
+    "continent": NaN,
+    "location_key": 43278,
+    "location_name": "29, 138"
+  },
+  {
+    "lat": 29,
+    "long": -112,
+    "location": "Bahía de Kino  Mexico",
+    "continent": "North America",
+    "location_key": 43028,
+    "location_name": "29, -112"
+  },
+  {
+    "lat": 30,
+    "long": 102,
+    "location": "Linqiong  China",
+    "continent": "Asia",
+    "location_key": 43603,
+    "location_name": "30, 102"
+  },
+  {
+    "lat": 30,
+    "long": 83,
+    "location": "Jumla  Nepal",
+    "continent": "Asia",
+    "location_key": 43584,
+    "location_name": "30, 83"
+  },
+  {
+    "lat": 31,
+    "long": 103,
+    "location": "Tianpeng  China",
+    "continent": "Asia",
+    "location_key": 43965,
+    "location_name": "31, 103"
+  },
+  {
+    "lat": 31,
+    "long": 128,
+    "location": "Makurazaki  Japan",
+    "continent": NaN,
+    "location_key": 43990,
+    "location_name": "31, 128"
+  },
+  {
+    "lat": 32,
+    "long": -115,
+    "location": "Delta  B.C.  MX",
+    "continent": "North America",
+    "location_key": 44108,
+    "location_name": "32, -115"
+  },
+  {
+    "lat": 32,
+    "long": 130,
+    "location": "Kumamoto  Japan",
+    "continent": "Asia",
+    "location_key": 44353,
+    "location_name": "32, 130"
+  },
+  {
+    "lat": 32,
+    "long": 140,
+    "location": "Tateyama  Japan",
+    "continent": NaN,
+    "location_key": 44363,
+    "location_name": "32, 140"
+  },
+  {
+    "lat": 33,
+    "long": 103,
+    "location": "Mawu  China",
+    "continent": "Asia",
+    "location_key": 44687,
+    "location_name": "33, 103"
+  },
+  {
+    "lat": 33,
+    "long": 96,
+    "location": "Qamdo  China",
+    "continent": "Asia",
+    "location_key": 44680,
+    "location_name": "33, 96"
+  },
+  {
+    "lat": 33,
+    "long": 130,
+    "location": "Maebaru-ch??  Japan",
+    "continent": "Asia",
+    "location_key": 44714,
+    "location_name": "33, 130"
+  },
+  {
+    "lat": 33,
+    "long": 137,
+    "location": "?yama  Japan",
+    "continent": NaN,
+    "location_key": 44721,
+    "location_name": "33, 137"
+  },
+  {
+    "lat": 33,
+    "long": 137,
+    "location": "Shing?  Japan",
+    "continent": NaN,
+    "location_key": 44721,
+    "location_name": "33, 137"
+  },
+  {
+    "lat": 33,
+    "long": 137,
+    "location": "Shing?  Japan",
+    "continent": NaN,
+    "location_key": 44721,
+    "location_name": "33, 137"
+  },
+  {
+    "lat": 33,
+    "long": 136,
+    "location": "Shing?  Japan",
+    "continent": NaN,
+    "location_key": 44720,
+    "location_name": "33, 136"
+  },
+  {
+    "lat": 34,
+    "long": 98,
+    "location": "Southern Qinghai  China",
+    "continent": "Asia",
+    "location_key": 45043,
+    "location_name": "34, 98"
+  },
+  {
+    "lat": 34,
+    "long": 25,
+    "location": "Néa Anatolí  Greece",
+    "continent": NaN,
+    "location_key": 44970,
+    "location_name": "34, 25"
+  },
+  {
+    "lat": 34,
+    "long": 45,
+    "location": "?alabja  Iraq",
+    "continent": "Asia",
+    "location_key": 44990,
+    "location_name": "34, 45"
+  },
+  {
+    "lat": 34,
+    "long": 132,
+    "location": "Kure  Japan",
+    "continent": "Asia",
+    "location_key": 45077,
+    "location_name": "34, 132"
+  },
+  {
+    "lat": 34,
+    "long": 141,
+    "location": "Katsuura  Japan",
+    "continent": NaN,
+    "location_key": 45086,
+    "location_name": "34, 141"
+  },
+  {
+    "lat": 34,
+    "long": 73,
+    "location": "Muzaffar?b?d  Pakistan",
+    "continent": "Asia",
+    "location_key": 45018,
+    "location_name": "34, 73"
+  },
+  {
+    "lat": 35,
+    "long": -117,
+    "location": "Searles Valley  CA",
+    "continent": "North America",
+    "location_key": 45189,
+    "location_name": "35, -117"
+  },
+  {
+    "lat": 35,
+    "long": -121,
+    "location": "San Simeon  California",
+    "continent": "North America",
+    "location_key": 45185,
+    "location_name": "35, -121"
+  },
+  {
+    "lat": 35,
+    "long": 82,
+    "location": "Hotan  China",
+    "continent": "Asia",
+    "location_key": 45388,
+    "location_name": "35, 82"
+  },
+  {
+    "lat": 35,
+    "long": 81,
+    "location": "Hotan  China",
+    "continent": "Asia",
+    "location_key": 45387,
+    "location_name": "35, 81"
+  },
+  {
+    "lat": 35,
+    "long": 90,
+    "location": "Southern Qinghai  China",
+    "continent": "Asia",
+    "location_key": 45396,
+    "location_name": "35, 90"
+  },
+  {
+    "lat": 35,
+    "long": 31,
+    "location": "Pólis  Cyprus",
+    "continent": "Asia",
+    "location_key": 45337,
+    "location_name": "35, 31"
+  },
+  {
+    "lat": 35,
+    "long": 23,
+    "location": "Kíssamos  Greece",
+    "continent": "Europe",
+    "location_key": 45329,
+    "location_name": "35, 23"
+  },
+  {
+    "lat": 35,
+    "long": 49,
+    "location": "Abhar  Iran",
+    "continent": "Asia",
+    "location_key": 45355,
+    "location_name": "35, 49"
+  },
+  {
+    "lat": 36,
+    "long": 71,
+    "location": "Ashk?sham  Afghanistan",
+    "continent": "Asia",
+    "location_key": 45738,
+    "location_name": "36, 71"
+  },
+  {
+    "lat": 36,
+    "long": 70,
+    "location": "Jurm  Afghanistan",
+    "continent": "Asia",
+    "location_key": 45737,
+    "location_name": "36, 70"
+  },
+  {
+    "lat": 36,
+    "long": 71,
+    "location": "Ashk?sham  Afghanistan",
+    "continent": "Asia",
+    "location_key": 45738,
+    "location_name": "36, 71"
+  },
+  {
+    "lat": 36,
+    "long": 70,
+    "location": "Jurm  Afghanistan",
+    "continent": "Asia",
+    "location_key": 45737,
+    "location_name": "36, 70"
+  },
+  {
+    "lat": 36,
+    "long": 3,
+    "location": "Dellys  Algeria",
+    "continent": NaN,
+    "location_key": 45670,
+    "location_name": "36, 3"
+  },
+  {
+    "lat": 36,
+    "long": 27,
+    "location": "Kos  Greece",
+    "continent": "Asia",
+    "location_key": 45694,
+    "location_name": "36, 27"
+  },
+  {
+    "lat": 36,
+    "long": 21,
+    "location": "Koróni  Greece",
+    "continent": "Europe",
+    "location_key": 45688,
+    "location_name": "36, 21"
+  },
+  {
+    "lat": 36,
+    "long": 21,
+    "location": "Methóni  Greece",
+    "continent": "Europe",
+    "location_key": 45688,
+    "location_name": "36, 21"
+  },
+  {
+    "lat": 36,
+    "long": 23,
+    "location": "Kýthira  Greece",
+    "continent": "Europe",
+    "location_key": 45690,
+    "location_name": "36, 23"
+  },
+  {
+    "lat": 36,
+    "long": 141,
+    "location": "Hasaki  Japan",
+    "continent": NaN,
+    "location_key": 45808,
+    "location_name": "36, 141"
+  },
+  {
+    "lat": 36,
+    "long": 141,
+    "location": "?arai  Japan",
+    "continent": NaN,
+    "location_key": 45808,
+    "location_name": "36, 141"
+  },
+  {
+    "lat": 36,
+    "long": 141,
+    "location": "Hasaki  Japan",
+    "continent": NaN,
+    "location_key": 45808,
+    "location_name": "36, 141"
+  },
+  {
+    "lat": 36,
+    "long": 134,
+    "location": "Mikuni  Japan",
+    "continent": NaN,
+    "location_key": 45801,
+    "location_name": "36, 134"
+  },
+  {
+    "lat": 36,
+    "long": 70,
+    "location": "Hindu Kush region  Afghanistan",
+    "continent": "Asia",
+    "location_key": 45737,
+    "location_name": "36, 70"
+  },
+  {
+    "lat": 37,
+    "long": 101,
+    "location": "northern Qinghai  China",
+    "continent": "Asia",
+    "location_key": 46129,
+    "location_name": "37, 101"
+  },
+  {
+    "lat": 37,
+    "long": 26,
+    "location": "Néon Karlovásion  Greece",
+    "continent": "Europe",
+    "location_key": 46054,
+    "location_name": "37, 26"
+  },
+  {
+    "lat": 37,
+    "long": 20,
+    "location": "Lithakiá  Greece",
+    "continent": "Europe",
+    "location_key": 46048,
+    "location_name": "37, 20"
+  },
+  {
+    "lat": 37,
+    "long": 141,
+    "location": "Namie  Japan",
+    "continent": "Asia",
+    "location_key": 46169,
+    "location_name": "37, 141"
+  },
+  {
+    "lat": 37,
+    "long": 140,
+    "location": "Ishikawa  Japan",
+    "continent": "Asia",
+    "location_key": 46168,
+    "location_name": "37, 140"
+  },
+  {
+    "lat": 37,
+    "long": 138,
+    "location": "Kashiwazaki  Japan",
+    "continent": "Asia",
+    "location_key": 46166,
+    "location_name": "37, 138"
+  },
+  {
+    "lat": 37,
+    "long": 136,
+    "location": "Nanao  Japan",
+    "continent": "Asia",
+    "location_key": 46164,
+    "location_name": "37, 136"
+  },
+  {
+    "lat": 37,
+    "long": 138,
+    "location": "Ojiya  Japan",
+    "continent": "Asia",
+    "location_key": 46166,
+    "location_name": "37, 138"
+  },
+  {
+    "lat": 37,
+    "long": 141,
+    "location": "Namie  Japan",
+    "continent": NaN,
+    "location_key": 46169,
+    "location_name": "37, 141"
+  },
+  {
+    "lat": 37,
+    "long": 141,
+    "location": "Namie  Japan",
+    "continent": NaN,
+    "location_key": 46169,
+    "location_name": "37, 141"
+  },
+  {
+    "lat": 37,
+    "long": 142,
+    "location": "Namie  Japan",
+    "continent": NaN,
+    "location_key": 46170,
+    "location_name": "37, 142"
+  },
+  {
+    "lat": 37,
+    "long": 143,
+    "location": "?funato  Japan",
+    "continent": NaN,
+    "location_key": 46171,
+    "location_name": "37, 143"
+  },
+  {
+    "lat": 37,
+    "long": 141,
+    "location": "Namie  Japan",
+    "continent": NaN,
+    "location_key": 46169,
+    "location_name": "37, 141"
+  },
+  {
+    "lat": 37,
+    "long": 142,
+    "location": "Namie  Japan",
+    "continent": NaN,
+    "location_key": 46170,
+    "location_name": "37, 142"
+  },
+  {
+    "lat": 37,
+    "long": 142,
+    "location": "Namie  Japan",
+    "continent": NaN,
+    "location_key": 46170,
+    "location_name": "37, 142"
+  },
+  {
+    "lat": 37,
+    "long": 142,
+    "location": "Ishinomaki  Japan",
+    "continent": NaN,
+    "location_key": 46170,
+    "location_name": "37, 142"
+  },
+  {
+    "lat": 38,
+    "long": 141,
+    "location": "Ishinomaki  Japan",
+    "continent": "Asia",
+    "location_key": 46530,
+    "location_name": "38, 141"
+  },
+  {
+    "lat": 38,
+    "long": 142,
+    "location": "?funato  Japan",
+    "continent": "Asia",
+    "location_key": 46531,
+    "location_name": "38, 142"
+  },
+  {
+    "lat": 38,
+    "long": 141,
+    "location": "Ishinomaki  Japan",
+    "continent": "Asia",
+    "location_key": 46530,
+    "location_name": "38, 141"
+  },
+  {
+    "lat": 38,
+    "long": 141,
+    "location": "?funato  Japan",
+    "continent": "Asia",
+    "location_key": 46530,
+    "location_name": "38, 141"
+  },
+  {
+    "lat": 38,
+    "long": 144,
+    "location": "Kamaishi  Japan",
+    "continent": NaN,
+    "location_key": 46533,
+    "location_name": "38, 144"
+  },
+  {
+    "lat": 38,
+    "long": 142,
+    "location": "?funato  Japan",
+    "continent": NaN,
+    "location_key": 46531,
+    "location_name": "38, 142"
+  },
+  {
+    "lat": 38,
+    "long": 142,
+    "location": "Ishinomaki  Japan",
+    "continent": NaN,
+    "location_key": 46531,
+    "location_name": "38, 142"
+  },
+  {
+    "lat": 38,
+    "long": 142,
+    "location": "Ishinomaki  Japan",
+    "continent": NaN,
+    "location_key": 46531,
+    "location_name": "38, 142"
+  },
+  {
+    "lat": 38,
+    "long": -117,
+    "location": "Monte Cristo Range  NV Earthquake",
+    "continent": "North America",
+    "location_key": 46272,
+    "location_name": "38, -117"
+  },
+  {
+    "lat": 38,
+    "long": 72,
+    "location": "Murghob  Tajikistan",
+    "continent": "Asia",
+    "location_key": 46461,
+    "location_name": "38, 72"
+  },
+  {
+    "lat": 38,
+    "long": 142,
+    "location": "2011 Great Tohoku Earthquake  Japan",
+    "continent": NaN,
+    "location_key": 46531,
+    "location_name": "38, 142"
+  },
+  {
+    "lat": 38,
+    "long": 39,
+    "location": "Do?anyol  Turkey",
+    "continent": "Asia",
+    "location_key": 46428,
+    "location_name": "38, 39"
+  },
+  {
+    "lat": 38,
+    "long": 43,
+    "location": "Van  Turkey",
+    "continent": "Asia",
+    "location_key": 46432,
+    "location_name": "38, 43"
+  },
+  {
+    "lat": 38,
+    "long": 31,
+    "location": "Sultanda??  Turkey",
+    "continent": "Asia",
+    "location_key": 46420,
+    "location_name": "38, 31"
+  },
+  {
+    "lat": 39,
+    "long": 24,
+    "location": "Skýros  Greece",
+    "continent": "Europe",
+    "location_key": 46774,
+    "location_name": "39, 24"
+  },
+  {
+    "lat": 39,
+    "long": 142,
+    "location": "Miyako  Japan",
+    "continent": "Asia",
+    "location_key": 46892,
+    "location_name": "39, 142"
+  },
+  {
+    "lat": 39,
+    "long": 141,
+    "location": "Morioka  Japan",
+    "continent": "Asia",
+    "location_key": 46891,
+    "location_name": "39, 141"
+  },
+  {
+    "lat": 39,
+    "long": 140,
+    "location": "Mizusawa  Japan",
+    "continent": "Asia",
+    "location_key": 46890,
+    "location_name": "39, 140"
+  },
+  {
+    "lat": 39,
+    "long": 141,
+    "location": "Hanamaki  Japan",
+    "continent": "Asia",
+    "location_key": 46891,
+    "location_name": "39, 141"
+  },
+  {
+    "lat": 39,
+    "long": 142,
+    "location": "Miyako  Japan",
+    "continent": NaN,
+    "location_key": 46892,
+    "location_name": "39, 142"
+  },
+  {
+    "lat": 39,
+    "long": 142,
+    "location": "?tsuchi  Japan",
+    "continent": NaN,
+    "location_key": 46892,
+    "location_name": "39, 142"
+  },
+  {
+    "lat": 39,
+    "long": 73,
+    "location": "Nookat  Kyrgyzstan",
+    "continent": "Asia",
+    "location_key": 46823,
+    "location_name": "39, 73"
+  },
+  {
+    "lat": 39,
+    "long": 73,
+    "location": "Murghob  Tajikistan",
+    "continent": "Asia",
+    "location_key": 46823,
+    "location_name": "39, 73"
+  },
+  {
+    "lat": 40,
+    "long": -124,
+    "location": "Ferndale  California",
+    "continent": "North America",
+    "location_key": 46987,
+    "location_name": "40, -124"
+  },
+  {
+    "lat": 40,
+    "long": -126,
+    "location": "Ferndale  California",
+    "continent": NaN,
+    "location_key": 46985,
+    "location_name": "40, -126"
+  },
+  {
+    "lat": 40,
+    "long": -125,
+    "location": "Indianola  California",
+    "continent": NaN,
+    "location_key": 46986,
+    "location_name": "40, -125"
+  },
+  {
+    "lat": 40,
+    "long": 25,
+    "location": "Ka3iótissa  Greece",
+    "continent": "Europe",
+    "location_key": 47136,
+    "location_name": "40, 25"
+  },
+  {
+    "lat": 40,
+    "long": 142,
+    "location": "Miyako  Japan",
+    "continent": NaN,
+    "location_key": 47253,
+    "location_name": "40, 142"
+  },
+  {
+    "lat": 41,
+    "long": -125,
+    "location": "Big Lagoon  California",
+    "continent": NaN,
+    "location_key": 47347,
+    "location_name": "41, -125"
+  },
+  {
+    "lat": 41,
+    "long": 142,
+    "location": "Shizunai-furukawach?  Japan",
+    "continent": "Asia",
+    "location_key": 47614,
+    "location_name": "41, 142"
+  },
+  {
+    "lat": 41,
+    "long": 143,
+    "location": "Shizunai-furukawach?  Japan",
+    "continent": "Asia",
+    "location_key": 47615,
+    "location_name": "41, 143"
+  },
+  {
+    "lat": 41,
+    "long": 143,
+    "location": "Obihiro  Japan",
+    "continent": NaN,
+    "location_key": 47615,
+    "location_name": "41, 143"
+  },
+  {
+    "lat": 41,
+    "long": 143,
+    "location": "Kushiro  Japan",
+    "continent": NaN,
+    "location_key": 47615,
+    "location_name": "41, 143"
+  },
+  {
+    "lat": 42,
+    "long": 13,
+    "location": "Preci  Italy",
+    "continent": "Europe",
+    "location_key": 47846,
+    "location_name": "42, 13"
+  },
+  {
+    "lat": 42,
+    "long": 141,
+    "location": "Chitose  Japan",
+    "continent": "Asia",
+    "location_key": 47974,
+    "location_name": "42, 141"
+  },
+  {
+    "lat": 42,
+    "long": 143,
+    "location": "Obihiro  Japan",
+    "continent": "Asia",
+    "location_key": 47976,
+    "location_name": "42, 143"
+  },
+  {
+    "lat": 42,
+    "long": 145,
+    "location": "Nemuro  Japan",
+    "continent": "Asia",
+    "location_key": 47978,
+    "location_name": "42, 145"
+  },
+  {
+    "lat": 42,
+    "long": 144,
+    "location": "Kushiro  Japan",
+    "continent": "Asia",
+    "location_key": 47977,
+    "location_name": "42, 144"
+  },
+  {
+    "lat": 42,
+    "long": 144,
+    "location": "Kushiro  Japan",
+    "continent": NaN,
+    "location_key": 47977,
+    "location_name": "42, 144"
+  },
+  {
+    "lat": 43,
+    "long": 145,
+    "location": "Nemuro  Japan",
+    "continent": "Asia",
+    "location_key": 48339,
+    "location_name": "43, 145"
+  },
+  {
+    "lat": 44,
+    "long": -115,
+    "location": "Stanley  Idaho",
+    "continent": "North America",
+    "location_key": 48440,
+    "location_name": "44, -115"
+  },
+  {
+    "lat": 45,
+    "long": 148,
+    "location": "Kuril’sk  Russia",
+    "continent": "Asia",
+    "location_key": 49064,
+    "location_name": "45, 148"
+  },
+  {
+    "lat": 46,
+    "long": 154,
+    "location": "the Kuril Islands",
+    "continent": NaN,
+    "location_key": 49431,
+    "location_name": "46, 154"
+  },
+  {
+    "lat": 46,
+    "long": 150,
+    "location": "Kuril’sk  Russia",
+    "continent": "Asia",
+    "location_key": 49427,
+    "location_name": "46, 150"
+  },
+  {
+    "lat": 47,
+    "long": -122,
+    "location": "Longbranch  Washington",
+    "continent": "North America",
+    "location_key": 49516,
+    "location_name": "47, -122"
+  },
+  {
+    "lat": 48,
+    "long": 157,
+    "location": "Severo-Kuril’sk  Russia",
+    "continent": NaN,
+    "location_key": 50156,
+    "location_name": "48, 157"
+  },
+  {
+    "lat": 49,
+    "long": -129,
+    "location": "Port McNeill  Canada",
+    "continent": NaN,
+    "location_key": 50231,
+    "location_name": "49, -129"
+  },
+  {
+    "lat": 49,
+    "long": -129,
+    "location": "Port McNeill  Canada",
+    "continent": NaN,
+    "location_key": 50231,
+    "location_name": "49, -129"
+  },
+  {
+    "lat": 49,
+    "long": -129,
+    "location": "Port McNeill  Canada",
+    "continent": NaN,
+    "location_key": 50231,
+    "location_name": "49, -129"
+  },
+  {
+    "lat": 49,
+    "long": -127,
+    "location": "Vernon  Canada",
+    "continent": NaN,
+    "location_key": 50233,
+    "location_name": "49, -127"
+  },
+  {
+    "lat": 49,
+    "long": -128,
+    "location": "Port McNeill  Canada",
+    "continent": NaN,
+    "location_key": 50232,
+    "location_name": "49, -128"
+  },
+  {
+    "lat": 49,
+    "long": 156,
+    "location": "Severo-Kuril’sk  Russia",
+    "continent": NaN,
+    "location_key": 50516,
+    "location_name": "49, 156"
+  },
+  {
+    "lat": 49,
+    "long": 145,
+    "location": "Poronaysk  Russia",
+    "continent": NaN,
+    "location_key": 50505,
+    "location_name": "49, 145"
+  },
+  {
+    "lat": 50,
+    "long": 157,
+    "location": "Ozer11skiy  Russia",
+    "continent": "Asia",
+    "location_key": 50878,
+    "location_name": "50, 157"
+  },
+  {
+    "lat": 50,
+    "long": 157,
+    "location": "Ozer11skiy  Russia",
+    "continent": "Asia",
+    "location_key": 50878,
+    "location_name": "50, 157"
+  },
+  {
+    "lat": 50,
+    "long": 87,
+    "location": "Aktash  Russia",
+    "continent": "Asia",
+    "location_key": 50808,
+    "location_name": "50, 87"
+  },
+  {
+    "lat": 50,
+    "long": 87,
+    "location": "Aktash  Russia",
+    "continent": "Asia",
+    "location_key": 50808,
+    "location_name": "50, 87"
+  },
+  {
+    "lat": 51,
+    "long": -178,
+    "location": "Adak  Alaska",
+    "continent": "North America",
+    "location_key": 50904,
+    "location_name": "51, -178"
+  },
+  {
+    "lat": 51,
+    "long": -174,
+    "location": "Atka  Alaska",
+    "continent": NaN,
+    "location_key": 50908,
+    "location_name": "51, -174"
+  },
+  {
+    "lat": 51,
+    "long": -175,
+    "location": "Atka  Alaska",
+    "continent": NaN,
+    "location_key": 50907,
+    "location_name": "51, -175"
+  },
+  {
+    "lat": 51,
+    "long": 178,
+    "location": "Rat Islands  Aleutian Islands  Alaska",
+    "continent": "North America",
+    "location_key": 51260,
+    "location_name": "51, 178"
+  },
+  {
+    "lat": 51,
+    "long": 100,
+    "location": "Turt  Mongolia",
+    "continent": "Asia",
+    "location_key": 51182,
+    "location_name": "51, 100"
+  },
+  {
+    "lat": 51,
+    "long": 95,
+    "location": "Saryg-9  Russia",
+    "continent": "Asia",
+    "location_key": 51177,
+    "location_name": "51, 95"
+  },
+  {
+    "lat": 51,
+    "long": 95,
+    "location": "Saryg-9  Russia",
+    "continent": "Asia",
+    "location_key": 51177,
+    "location_name": "51, 95"
+  },
+  {
+    "lat": 51,
+    "long": 157,
+    "location": "Ozer11skiy  Russia",
+    "continent": "Asia",
+    "location_key": 51239,
+    "location_name": "51, 157"
+  },
+  {
+    "lat": 52,
+    "long": 176,
+    "location": "Attu Station  Alaska",
+    "continent": "North America",
+    "location_key": 51619,
+    "location_name": "52, 176"
+  },
+  {
+    "lat": 52,
+    "long": -168,
+    "location": "Nikolski  Alaska",
+    "continent": NaN,
+    "location_key": 51275,
+    "location_name": "52, -168"
+  },
+  {
+    "lat": 52,
+    "long": -168,
+    "location": "Nikolski  Alaska",
+    "continent": NaN,
+    "location_key": 51275,
+    "location_name": "52, -168"
+  },
+  {
+    "lat": 52,
+    "long": -168,
+    "location": "Nikolski  Alaska",
+    "continent": NaN,
+    "location_key": 51275,
+    "location_name": "52, -168"
+  },
+  {
+    "lat": 52,
+    "long": -167,
+    "location": "Nikolski  Alaska",
+    "continent": NaN,
+    "location_key": 51276,
+    "location_name": "52, -167"
+  },
+  {
+    "lat": 52,
+    "long": -167,
+    "location": "Nikolski  Alaska",
+    "continent": NaN,
+    "location_key": 51276,
+    "location_name": "52, -167"
+  },
+  {
+    "lat": 52,
+    "long": -167,
+    "location": "Nikolski  Alaska",
+    "continent": NaN,
+    "location_key": 51276,
+    "location_name": "52, -167"
+  },
+  {
+    "lat": 52,
+    "long": -169,
+    "location": "Fox Islands  Aleutian Islands  Alaska",
+    "continent": NaN,
+    "location_key": 51274,
+    "location_name": "52, -169"
+  },
+  {
+    "lat": 52,
+    "long": -132,
+    "location": "Prince Rupert  Canada",
+    "continent": "North America",
+    "location_key": 51311,
+    "location_name": "52, -132"
+  },
+  {
+    "lat": 52,
+    "long": 153,
+    "location": "Ozer11skiy  Russia",
+    "continent": NaN,
+    "location_key": 51596,
+    "location_name": "52, 153"
+  },
+  {
+    "lat": 53,
+    "long": 158,
+    "location": "Mil’kovo  Russia",
+    "continent": "Asia",
+    "location_key": 51962,
+    "location_name": "53, 158"
+  },
+  {
+    "lat": 54,
+    "long": -159,
+    "location": "Sand Point  Alaska",
+    "continent": "North America",
+    "location_key": 52006,
+    "location_name": "54, -159"
+  },
+  {
+    "lat": 54,
+    "long": 170,
+    "location": "Attu Station  Alaska",
+    "continent": NaN,
+    "location_key": 52335,
+    "location_name": "54, 170"
+  },
+  {
+    "lat": 54,
+    "long": 163,
+    "location": "Ust’-Kamchatsk Staryy  Russia",
+    "continent": NaN,
+    "location_key": 52328,
+    "location_name": "54, 163"
+  },
+  {
+    "lat": 54,
+    "long": 168,
+    "location": "Komandorskiye Ostrova  Russia region",
+    "continent": NaN,
+    "location_key": 52333,
+    "location_name": "54, 168"
+  },
+  {
+    "lat": 55,
+    "long": -157,
+    "location": "Perryville  Alaska",
+    "continent": NaN,
+    "location_key": 52369,
+    "location_name": "55, -157"
+  },
+  {
+    "lat": 55,
+    "long": -157,
+    "location": "Perryville  Alaska",
+    "continent": NaN,
+    "location_key": 52369,
+    "location_name": "55, -157"
+  },
+  {
+    "lat": 55,
+    "long": -157,
+    "location": "Perryville  Alaska",
+    "continent": NaN,
+    "location_key": 52369,
+    "location_name": "55, -157"
+  },
+  {
+    "lat": 55,
+    "long": -157,
+    "location": "Perryville  Alaska",
+    "continent": NaN,
+    "location_key": 52369,
+    "location_name": "55, -157"
+  },
+  {
+    "lat": 55,
+    "long": -158,
+    "location": "Perryville  Alaska",
+    "continent": NaN,
+    "location_key": 52368,
+    "location_name": "55, -158"
+  },
+  {
+    "lat": 55,
+    "long": -134,
+    "location": "Edna Bay  Alaska",
+    "continent": NaN,
+    "location_key": 52392,
+    "location_name": "55, -134"
+  },
+  {
+    "lat": 55,
+    "long": 160,
+    "location": "Atlasovo  Russia",
+    "continent": "Asia",
+    "location_key": 52686,
+    "location_name": "55, 160"
+  },
+  {
+    "lat": 55,
+    "long": 159,
+    "location": "Atlasovo  Russia",
+    "continent": "Asia",
+    "location_key": 52685,
+    "location_name": "55, 159"
+  },
+  {
+    "lat": 55,
+    "long": 164,
+    "location": "Ust’-Kamchatsk Staryy  Russia",
+    "continent": NaN,
+    "location_key": 52690,
+    "location_name": "55, 164"
+  },
+  {
+    "lat": 56,
+    "long": -156,
+    "location": "Chignik  Alaska",
+    "continent": "North America",
+    "location_key": 52731,
+    "location_name": "56, -156"
+  },
+  {
+    "lat": 56,
+    "long": -153,
+    "location": "Old Harbor  Alaska",
+    "continent": "North America",
+    "location_key": 52734,
+    "location_name": "56, -153"
+  },
+  {
+    "lat": 56,
+    "long": -149,
+    "location": "Chiniak  Alaska",
+    "continent": NaN,
+    "location_key": 52738,
+    "location_name": "56, -149"
+  },
+  {
+    "lat": 56,
+    "long": -156,
+    "location": "Ugashik  Alaska",
+    "continent": NaN,
+    "location_key": 52731,
+    "location_name": "56, -156"
+  },
+  {
+    "lat": 56,
+    "long": 162,
+    "location": "Ust’-Kamchatsk Staryy  Russia",
+    "continent": "Asia",
+    "location_key": 53049,
+    "location_name": "56, 162"
+  },
+  {
+    "lat": 58,
+    "long": -154,
+    "location": "Kokhanok  Alaska",
+    "continent": "North America",
+    "location_key": 53455,
+    "location_name": "58, -154"
+  },
+  {
+    "lat": 59,
+    "long": -153,
+    "location": "Pedro Bay  Alaska",
+    "continent": "North America",
+    "location_key": 53817,
+    "location_name": "59, -153"
+  },
+  {
+    "lat": 60,
+    "long": 165,
+    "location": "Tilichiki  Russia",
+    "continent": "Asia",
+    "location_key": 54496,
+    "location_name": "60, 165"
+  },
+  {
+    "lat": 60,
+    "long": 167,
+    "location": "Tilichiki  Russia",
+    "continent": "Asia",
+    "location_key": 54498,
+    "location_name": "60, 167"
+  },
+  {
+    "lat": 60,
+    "long": 167,
+    "location": "Tilichiki  Russia",
+    "continent": "Asia",
+    "location_key": 54498,
+    "location_name": "60, 167"
+  },
+  {
+    "lat": 61,
+    "long": -149,
+    "location": "Point MacKenzie  Alaska",
+    "continent": "North America",
+    "location_key": 54543,
+    "location_name": "61, -149"
+  },
+  {
+    "lat": 63,
+    "long": -147,
+    "location": "Cantwell  Alaska",
+    "continent": "North America",
+    "location_key": 55267,
+    "location_name": "63, -147"
+  },
+  {
+    "lat": 63,
+    "long": -147,
+    "location": "Cantwell  Alaska",
+    "continent": "North America",
+    "location_key": 55267,
+    "location_name": "63, -147"
+  },
+  {
+    "lat": 67,
+    "long": 142,
+    "location": "Belaya Gora  Russia",
+    "continent": "Asia",
+    "location_key": 57000,
+    "location_name": "67, 142"
+  },
+  {
+    "lat": 71,
+    "long": -11,
+    "location": "Olonkinbyen  Svalbard and 1 5en",
+    "continent": NaN,
+    "location_key": 58291,
+    "location_name": "71, -11"
+  }
+]
