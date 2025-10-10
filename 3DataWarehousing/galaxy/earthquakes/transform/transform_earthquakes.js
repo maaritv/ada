@@ -35,4 +35,3 @@ function writeFile(name, jsondagta) {
 
 
 
-
