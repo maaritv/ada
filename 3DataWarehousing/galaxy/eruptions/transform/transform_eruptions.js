@@ -19,7 +19,7 @@ eruptions = removeEruptionsWithoutDimensions(eruptions)
 console.log(eruptions)
 
 
-writeFile("eruptions/transform/output/eruptions_with_dates_and_locations_and_countries_no_volcano_name.json", eruptions)
+writeFile("eruptions/transform/output/eruption_fact.json", eruptions)
 
 function writeFile(name, jsondagta) {
     fs.writeFile('./' + name, JSON.stringify(jsondagta), err => {
