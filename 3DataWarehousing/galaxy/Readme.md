@@ -16,4 +16,11 @@ e.g.
 ````
 node eruptions/transform_eruptions/transform_eruptions.js
 
-```
+````
+
+The data, used by this the learning material, is derived from the following sources:
+
+- Earthquake data: https://www.kaggle.com/datasets/warcoder/earthquake-dataset (Public Domain)
+- Eruptions: https://www.kaggle.com/datasets/rupindersinghrana/database-of-volcanic-eruptions (Apache 2)
+- Volcanos:  Global Volcanism Program, 2025. [Database] Volcanoes of the World (v. 5.3.3; 26 Nov 2025). Distributed by Smithsonian Institution, compiled by Venzke, E. https://doi.org/10.5479/si.GVP.VOTW5-2025.5.3
+
