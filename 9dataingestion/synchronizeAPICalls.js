@@ -1,5 +1,8 @@
 import { writeFile } from "fs/promises";
 
+/**
+ *  node synchronizeAPICalls.js
+ */
 
 /** simulate delay in "fetch" 5 seconds */
 async function fetchExchangeRatesToFile(dte, fileName) {

@@ -11,8 +11,8 @@ def read_json_file_to_pd(file_name):
 
 # Convert to dataframes
 
-df_old = read_json_file_to_pd('./bookdata/booksold.json')
-df_new = read_json_file_to_pd('./bookdata/booksnew.json')
+df_old = read_json_file_to_pd('./bookdata/booksold.json') # Data currently in raw data layer, staging area or similar
+df_new = read_json_file_to_pd('./bookdata/booksnew.json') # Data in source database table
 
 # Find records in new_data that are not in old_data
 # use primary key, because it does not change for the
