@@ -17,9 +17,20 @@ spark = SparkSession.builder \
 batch_df = spark.read.csv("./data/slow/sales_history.csv", header=True, inferSchema=True)
 
 # Aggregate historical data
-batch_agg = batch_df.groupBy("product").agg(
-    _sum("amount").alias("historical_sales")
-)
+# Each part does this:
+# groupBy("product") groups rows that have the same value in product column.
+# .agg(_sum("amount")) adds up the amount values within each group.
+# .alias("historical_sales") names that total column historical_sales.
+# batch_agg = assigns the resulting DataFrame to batch_agg.
+'''
+as SQL:
+    SELECT
+        product,
+        SUM(amount) AS historical_sales
+    FROM batch_df
+    GROUP BY product;
+'''
+batch_agg = batch_df.groupBy("product").agg(_sum("amount").alias("historical_sales"))
 
 # --------------------------
 # 2. Read streaming (real time)

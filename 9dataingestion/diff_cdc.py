@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 
-def read_json_file(file_name):
+def read_json_file_to_pd(file_name):
     with open(file_name, "r") as f:
         data_list = json.load(f)
 
@@ -11,8 +11,8 @@ def read_json_file(file_name):
 
 # Convert to dataframes
 
-df_old = read_json_file('./bookdata/booksold.json')
-df_new = read_json_file('./bookdata/booksnew.json')
+df_old = read_json_file_to_pd('./bookdata/booksold.json')
+df_new = read_json_file_to_pd('./bookdata/booksnew.json')
 
 # Find records in new_data that are not in old_data
 # use primary key, because it does not change for the

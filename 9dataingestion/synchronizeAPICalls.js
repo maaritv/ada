@@ -56,13 +56,13 @@ function createInvoices(sales, rates) {
     });
 }
 
-function validateAndMapSalesEventsToSalesCanonical(sales, yesterday){
+function validateAndMapSalesEventsToSalesCanonical(sales, transactionDate){
     //is not yet implemented!!
     //now return sales as it was, not right!
     return sales;
 }
 
-function readAndValidateAndMapSpotRatesToCanonical(ratesFileName, yesterday){
+function readAndValidateAndMapSpotRatesToCanonical(ratesFileName, transactionDate){
     //is not yet implemented!!
     //now return spotrates as it was, not right!
     const rates = {
@@ -87,16 +87,16 @@ function publishInvoices(invoices){
 
 try {
     const ratesFileName = "rates.json"
-    const yesterday="2023-01-12";
+    const transactionDate="2023-01-12";
     const startTime = (new Date().getTime())
-    const spotRatesPromise = fetchExchangeRatesToFile(yesterday, ratesFileName);
+    const spotRatesPromise = fetchExchangeRatesToFile(transactionDate, ratesFileName);
     //await(spotRatesPromise) 
     //(5 + 3 = 8 seconds, two jobs running in series)
-    const salesEvents = await fetchSalesEvents(yesterday)
-    const salesEventsCanonical = validateAndMapSalesEventsToSalesCanonical(salesEvents, yesterday)
+    const salesEvents = await fetchSalesEvents(transactionDate)
+    const salesEventsCanonical = validateAndMapSalesEventsToSalesCanonical(salesEvents, transactionDate)
     await(spotRatesPromise) 
     //(~5 seconds, two jobs running parallel)
-    const spotRatesCanonical = readAndValidateAndMapSpotRatesToCanonical(ratesFileName, yesterday)
+    const spotRatesCanonical = readAndValidateAndMapSpotRatesToCanonical(ratesFileName, transactionDate)
     const invoices = createInvoices(salesEventsCanonical, spotRatesCanonical)
     publishInvoices(invoices)
     const endTime=(new Date().getTime())
